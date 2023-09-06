@@ -10,7 +10,7 @@ def poisci_vec(reg1, reg2, vsebina, locilo=','):
     genres_seznam = []
     for genre in genres:
         try:
-            genres_seznam.append(re.findall(reg2, genre, re.DOTALL)[0])
+            genres_seznam.append(re.findall(reg2, genre, re.DOTALL)[0].strip())
         except:
             pass
     return genres_seznam
@@ -30,19 +30,21 @@ for filename in os.listdir(html_datoteke):
     print( filename)
     naslov = re.findall(r'<h2 class="movie-title">\s*(.*?)\s*<span', vsebina, re.DOTALL)
     leto = re.findall(r'<span class="release-year">\((.*?)\)<\/span>', vsebina, re.DOTALL)
-    reziserji = poisci_vec(r'<h3 class="movie-director".*?<\/h3>', r'<a.*?>(.*?)<\/a>', vsebina, locilo='/')
-    print_diagnostic(reziserji)
-    reziser = re.findall(r'<h3 class="movie-director".*?<a.*?>(.*?)<\/a>', vsebina, re.DOTALL)
-    details = re.findall(r'<div class="details">.*?<\/div>', vsebina, re.DOTALL)
-    
+    reziserji = poisci_vec(r'<h3 class="movie-director".*?<\/h3>', r'<a.*?>(.*?)<\/a>', vsebina, locilo=' / ')
+    opis = re.findall(r'<div class="text">(.*?)<\/div>', vsebina, re.DOTALL)[0].strip()
     zanri = poisci_vec(r'<span class="header-movie-genres".*?<\/span>', r'<a.*?>(.*?)<\/a>', vsebina)
-    drzave = poisci_vec(r'<span.*?Countries.*?(<span.*<\/span>)<span>.*?MPAA', r'<a.*?>(.*?)<\/a>', vsebina)
-    run_time = re.findall(r'<span.*?Run Time -.*?(\d*?) min.*?<\/span>', vsebina, re.DOTALL)
-    ocene = re.findall(r'<ul class="ratings">.*?<\/ul>', vsebina, re.DOTALL)
+    drzave = poisci_vec(r'<span>.*?Countries(.*?)MPAA', r'<span.*?>(.*?)<\/span>', vsebina)
+    run_time = int(re.findall(r'<span.*?Run Time -.*?(\d*?) min.*?<\/span>', vsebina, re.DOTALL)[0].strip())
+    ocena_kritikov = int(re.findall(r'<div class="allmovie-rating.*?>(.*?)<\/div>', vsebina, re.DOTALL)[0].strip())
+    teme = poisci_vec(r'<div class="themes.*?<div class="charactList.*?<\/div>', r'<a.*?>(.*?)<\/a>', vsebina, '|')
+    oznaka = re.findall(r'<div class="mpaa">.*?<div>(.*?)<\/div>', vsebina, re.DOTALL)
+    flags = poisci_vec(r'<div class="flags">.*?<div>(.*?)<\/div>', r'<span.*?>(.*?)<', vsebina, '/')
+    legacy_id = re.findall(r'<div class="legacy-id">.*?<div>(.*?)<\/div>', vsebina, re.DOTALL)
+    html_datoteke_igralci = './zajeti-podatki/filmi-cast/'
+    vsebina_igralci = orodja.vsebina_datoteke(html_datoteke_igralci + filename)
 
-    karakteristike = re.findall(r'<section class="characteristics">.*?<\/section>', vsebina, re.DOTALL)
-    osnovni_podatki = re.findall(r'<section class="basic-info">.*?<\/section>', vsebina, re.DOTALL)
-
+    igralci = poisci_vec(r'<div class="description-box">.*?<\/section>', r'<a.*?tooltip.*?>(.*?)<\/a>', vsebina_igralci, 'cast_name')
+    print_diagnostic(igralci)
     raw_podatki_o_filmu = {
         'naslov': naslov[0],
         'leto': leto[0],
