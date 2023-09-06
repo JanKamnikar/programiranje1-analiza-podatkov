@@ -3,6 +3,7 @@ import json
 import os
 import requests
 import sys
+from requests_html import HTMLSession
 
 
 def pripravi_imenik(ime_datoteke):
@@ -20,7 +21,8 @@ def shrani_spletno_stran(url, ime_datoteke, vsili_prenos=False, headers=None):
         if os.path.isfile(ime_datoteke) and not vsili_prenos:
             print('shranjeno že od prej!')
             return
-        r = requests.get(url, headers=headers)
+        session = HTMLSession()
+        r = session.get(url, headers=headers)
     except requests.exceptions.ConnectionError:
         print('stran ne obstaja!')
     else:
