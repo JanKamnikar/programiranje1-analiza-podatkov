@@ -1,29 +1,27 @@
 import orodja
-import time
 import os 
 import re
-import random
 import pandas as pd
 
 def poisci_vec(reg1, reg2, vsebina, locilo=','):
-    genres = re.findall(reg1, vsebina, re.DOTALL)
-    if not genres:
+    group1 = re.findall(reg1, vsebina, re.DOTALL)
+    if not group1:
         return []
-    genres = genres[0].split(locilo)
-    genres_seznam = []
-    for genre in genres:
+    group1 = group1[0].split(locilo)
+    group1_seznam = []
+    for group_element in group1:
         try:
-            genres_seznam.append(re.findall(reg2, genre, re.DOTALL)[0].strip())
+            group1_seznam.append(re.findall(reg2, group_element, re.DOTALL)[0].strip())
         except:
             pass
-    return genres_seznam
+    return group1_seznam
 
 def poisci_vec_drzav(reg1, reg2, vsebina, locilo=','):
-    genres = re.findall(reg1, vsebina, re.DOTALL)
-    if not genres:
+    group1 = re.findall(reg1, vsebina, re.DOTALL)
+    if not group1:
         return []
-    genres = genres[0]
-    return re.findall(reg2, genres, re.DOTALL)
+    group1 = group1[0]
+    return re.findall(reg2, group1, re.DOTALL)
 
 def print_diagnostic(msg):
     print('='*20)
@@ -39,14 +37,11 @@ mn_oznak = set()
 
 podatki = []
 
-
 seznam_filmov = set()
 html_datoteke = './zajeti-podatki/filmi/'
 # list all files in the directory and read them
 for i,filename in enumerate(os.listdir(html_datoteke)):
-    #print(i+1, 'od', '~1017:', filename)
     try:
-
         vsebina = orodja.vsebina_datoteke(html_datoteke + filename)
         naslov = re.findall(r'<h2 class="movie-title">\s*(.*?)\s*<span', vsebina, re.DOTALL)
         leto = re.findall(r'<span class="release-year">\((.*?)\)<\/span>', vsebina, re.DOTALL)
@@ -74,6 +69,7 @@ for i,filename in enumerate(os.listdir(html_datoteke)):
             drzave = drzave[0].split(', ')
         teme = poisci_vec(r'<div class="themes.*?<div class="charactList.*?<\/div>', r'<a.*?>(.*?)<\/a>', vsebina, '|')
         flags = poisci_vec(r'<div class="flags">.*?<div>(.*?)<\/div>', r'<span.*?>(.*?)<', vsebina, '/')
+
         mn_ljudi.update(igralci)
         mn_ljudi.update(reziserji)
         mn_zanrov.update(zanri)
@@ -123,6 +119,13 @@ for i,podatek in enumerate(podatki):
     teme_filmi.extend([[i, tema] for tema in podatek['teme']])
     oznake_filmi.extend([[i, zastava] for zastava in podatek['oznake']])
     zanri_filmi.extend([[i, zanr] for zanr in podatek['zanri']])
+
+    podatek.pop('igralci')
+    podatek.pop('reziserji')
+    podatek.pop('drzave')
+    podatek.pop('teme')
+    podatek.pop('oznake')
+    podatek.pop('zanri')
 
 imena = ['filmi', 'ljudje_indeks', 'ljudje_filmi', 'drzave_filmi', 'teme_filmi', 'oznake_filmi', 'zanri_filmi']
 column_name = [[], ['ime'], ['film','clovek', 'vloga'], ['film','drzava'], ['film','tema'], ['film','oznaka'], ['film','zanr']]
