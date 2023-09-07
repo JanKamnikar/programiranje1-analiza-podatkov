@@ -1,0 +1,380 @@
+id,podatek
+0,Mischievous Children
+1,Obsessive Quests
+2,Forbidden Love
+3,Whistleblowers
+4,Sibling Relationships
+5,In Training
+6,Survival in the Wilderness
+7,Mental Illness
+8,Crisis of Conscience
+9,Twins and Lookalikes
+10,Assassination Plots
+11,Stranded
+12,Discovering One's Heritage
+13,Out For Revenge
+14,Terrorism
+15,Workplace Romance
+16,Great Battles
+17,Twentysomething Life
+18,Lawyers
+19,Hired Killers
+20,Human Giants
+21,Nannies and Caregivers
+22,Serendipity
+23,Runaways
+24,Gender-Bending
+25,Breakups and Divorces
+26,Playing the Field
+27,Estrangement
+28,Getting Along [k]
+29,Lost Worlds
+30,Existential Crisis
+31,Cons and Scams
+32,Riches To Rags
+33,Mad Scientists
+34,Small-Town Life
+35,Dysfunctional Families
+36,Amateur Sleuths
+37,Hijackings
+38,Wrongly Committed
+39,Inheritance at Stake
+40,Double Life
+41,Star-Crossed Lovers
+42,High School Life
+43,Stalkers
+44,Rise To Power
+45,Zombies
+46,Interracial/Cross-Cultural Romance
+47,Down on Their Luck
+48,Alcoholism
+49,Dangerous Attraction
+50,Woman In Jeopardy
+51,Living With Disability
+52,Talking Animals
+53,Office Politics
+54,Trading Bodies
+55,Life in the Arts
+56,Facing Death
+57,Romantic Betrayal
+58,Bumbling Cops
+59,On the Run
+60,Thrill Crime
+61,Ladder to the Top
+62,Religious Zealotry
+63,Mummies
+64,School Violence [k]
+65,Mental Breakdown
+66,Spiritual Awakening
+67,Knights and Ladies
+68,Clearing One's Name
+69,Immortality
+70,Police Corruption
+71,Boarding School Life
+72,Filmmaking
+73,Vigilantes
+74,Mercenaries
+75,Witnessing a Crime
+76,Cyberspace [Anime]
+77,Renegade Body Parts
+78,Unrequited Love
+79,Dropping Out
+80,Air Disasters
+81,Midlife Crises
+82,Computer Paranoia
+83,Star Detectives
+84,Trapped or Confined
+85,Kids in Trouble
+86,Lovers Reunited
+87,Yakuza
+88,Disasters at Sea
+89,Parenthood
+90,Unlikely Criminals
+91,Miraculous Events
+92,Orphans
+93,Party Film
+94,Members of the Clergy
+95,Talented Animals
+96,Space Travel
+97,One Against the Mob
+98,Escape From Prison
+99,Journey of Self-Discovery
+100,Rookie Cops
+101,Expecting a Baby
+102,Thirtysomething Life
+103,Wishes Come True
+104,Race Relations
+105,Crimes Against Humanity
+106,Demonic Possession
+107,Fantasy Lands
+108,Shrunken People
+109,Farm Life
+110,Serial Killers
+111,Bodyguards
+112,Street Gangs
+113,Underdogs
+114,Coming Home
+115,Lone Wolves
+116,Refugees
+117,Traitorous Spies/Double Agents
+118,Hostage Situations
+119,Custody Battles
+120,Single Parents
+121,Missing Persons
+122,Saintly Fools
+123,Voodoo
+124,Sexual Awakening
+125,Psychic Abilities
+126,Femmes Fatales
+127,Mothers and Daughters
+128,Fall From Power
+129,All Washed Up
+130,Behind Enemy Lines
+131,Fish Out of Water
+132,Self-Destructive Romance
+133,Post-Apocalypse
+134,End of the World
+135,Wrestling
+136,Wolf in Sheep's Clothing
+137,Actor's Life
+138,Love Triangles
+139,Class Differences
+140,Train Rides
+141,Assumed Identities
+142,Monkeys
+143,Dishonor Among Thieves
+144,Nightmare Vacations
+145,Secret Organizations
+146,Mistaken Identities
+147,Kidnapping
+148,Man's Best Friend
+149,Drug Trade
+150,Amnesia
+151,Southern Gothic
+152,Arrested Adolescence
+153,Authority Figures [k]
+154,Hide the Dead Body
+155,Treacherous Spouses
+156,Colonialism
+157,Rise and Fall Stories
+158,Big Break
+159,Widows and Widowers
+160,Families in Crisis
+161,Mentors
+162,Starting Over
+163,War in the Sky
+164,Creative Block
+165,Death of a Parent
+166,Horses
+167,Showing Feelings [k]
+168,Future Dystopias
+169,When Animals Attack
+170,Crumbling Marriages
+171,Infidelity
+172,Benign Aliens
+173,Coaches and Players
+174,Betrayal
+175,Suburban Dysfunction
+176,Reconciliation
+177,Reluctant Hero
+178,Soccer Players
+179,Daring Rescues
+180,Bullies
+181,Boxers
+182,Social Climbing
+183,On the Campaign Trail
+184,Culture Clash
+185,Witches
+186,Sheriffs and Outlaws
+187,Chosen One
+188,Perfect Crime
+189,Prison Life
+190,Behind the Iron Curtain
+191,Triad
+192,Message From God
+193,Faltering Friendships
+194,Dancer's Life
+195,Fathers and Sons
+196,Righting the Wronged
+197,Immigrant Life
+198,Reincarnation
+199,Questioning Gender Roles
+200,Intersecting Lives
+201,Death of a Partner
+202,Work Ethics
+203,White People Among Indians
+204,Plagues and Epidemics
+205,Death Row
+206,Scandals and Cover-Ups
+207,Misfits and Outsiders
+208,Boss from Hell
+209,Space Wars
+210,Private Eyes
+211,Dying Young
+212,Cliques
+213,Life on the Homefront
+214,Going Straight
+215,First Love
+216,Flight of the Innocent
+217,Looking For Love
+218,Time Sleepers
+219,Romantic Misunderstandings
+220,Ranchers
+221,Task Forces
+222,Marriages of Convenience
+223,Crime Sprees
+224,Therapy
+225,Women During Wartime
+226,Tortured Genius
+227,Questioning Sexuality
+228,Jewel Theft
+229,Family Gatherings
+230,Blackmail
+231,Managing Parental Relationships [k]
+232,Mythical Creatures
+233,Musician's Life
+234,Wedding Bells
+235,Invisible People
+236,Protecting the Innocent
+237,Body Image and Self-Esteem
+238,Bohemian Life
+239,Mafia Life
+240,Military Life
+241,Conspiracies
+242,Doctors and Patients
+243,Redemption
+244,Devil Worship
+245,Evil Aliens
+246,Cooks and Chefs
+247,Americans Abroad
+248,Rags To Riches
+249,Nothing Goes Right
+250,Voyeurs
+251,Rogue Cops
+252,Mothers and Sons
+253,Teen Angst
+254,Genie in a Bottle
+255,Vacation Romances
+256,Opposites Attract
+257,Social Injustice
+258,"Contests, Pageants and Competitions"
+259,Adoption
+260,Living In Exile
+261,Mecha [Anime]
+262,Kaiju
+263,Home From the War
+264,Taming the West
+265,Finding a Way Back Home
+266,Child Prodigies
+267,Under Siege
+268,Suicide
+269,Heroic Mission
+270,Women's Friendship
+271,Race Against Time
+272,Future Barbarians
+273,Unlikely Heroes
+274,Supernatural Romance
+275,Bounty Hunters
+276,Otherwise Engaged
+277,Teachers and Students
+278,Death in the Family
+279,Single Life
+280,Forces of Nature
+281,Technology Run Amok
+282,Members of the Press
+283,Unlikely Friendships
+284,Priceless Artifacts and Prized Objects
+285,Death of a Child
+286,Time Travel
+287,Crisis of Faith
+288,Innocence Lost
+289,Mind Games
+290,Curses and Spells
+291,Prospectors and Land Rights
+292,Men's Friendship
+293,Fathers and Daughters
+294,Domestic Abuse
+295,Generation Gap
+296,Robots and Androids
+297,Crimes of Passion
+298,Non-Traditional Families
+299,Battle of the Sexes
+300,Writer's Life
+301,Magically Transported
+302,Eccentric Families
+303,Persecution [Anime]
+304,Cannibals
+305,Experiments Gone Awry
+306,Criminal's Revenge
+307,Football Players
+308,Ship Cruises
+309,Pygmalion Stories
+310,Tomboys
+311,Battling Illness
+312,Finding the Cure
+313,Cults
+314,Vampires
+315,Rape & Sexual Abuse
+316,Life Under Occupation
+317,Miscarriage of Justice
+318,Heads of State
+319,Fighting the System
+320,Toys Come to Life
+321,Wanderlust
+322,Labor Unions
+323,Cinderella Stories
+324,Witness Protection
+325,Prostitutes
+326,Werewolves
+327,One Last Heist
+328,Political Unrest
+329,Foibles of Marriage
+330,Bowling
+331,Treasure Hunts
+332,Terror in the Water
+333,Totalitarian States
+334,Fired or Laid-Off
+335,Inventors
+336,Going Undercover
+337,College Life
+338,Mutants
+339,Metamorphosis
+340,Haunted By the Past
+341,Brief Encounters
+342,Success is the Best Revenge
+343,Ghosts
+344,Mysterious Strangers
+345,Virtual Reality
+346,Servants and Employers
+347,Lovers on the Lam
+348,Bank Robbery
+349,Keeping a Secret
+350,Political Corruption
+351,Deal With the Devil
+352,Switching Sides
+353,Age Disparity Romance
+354,Car Racing
+355,Split Personalities
+356,Matchmakers
+357,Schemes and Ruses
+358,New Kid in Town
+359,Date from Hell
+360,Courts Martial
+361,Golden Years
+362,Circuses & Carnivals
+363,Switched at Birth
+364,Death of a Friend
+365,Disfigured Criminals
+366,Wizards and Magicians
+367,Drug Addiction
+368,Inner City Blues
+369,Feuds
+370,Dangerous Friends
+371,Crime Gone Awry
+372,Arranged Marriages
+373,Hotshots
+374,Murder Investigations
+375,Fantasy Life
+376,Crowned Heads
+377,Biotechnology [Anime]
+378,War At Sea
