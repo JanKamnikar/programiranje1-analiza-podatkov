@@ -46,17 +46,26 @@ for i,filename in enumerate(os.listdir(html_datoteke)):
         naslov = re.findall(r'<h2 class="movie-title">\s*(.*?)\s*<span', vsebina, re.DOTALL)
         leto = re.findall(r'<span class="release-year">\((.*?)\)<\/span>', vsebina, re.DOTALL)
         oznaka = re.findall(r'<div class="mpaa">.*?<div>(.*?)<\/div>', vsebina, re.DOTALL)
+
         if oznaka:
             oznaka = oznaka[0].strip()
+        else:
+            oznaka = None
         opis = re.findall(r'<div class="text">(.*?)<\/div>', vsebina, re.DOTALL)
         if opis:
-            opis = opis[0].strip()
+            opis = str(opis[0].strip())
+        else:
+            opis = None
         run_time = re.findall(r'<span.*?Run Time -.*?(\d*?) min.*?<\/span>', vsebina, re.DOTALL)
         if run_time:
             run_time = int(run_time[0].strip())
+        else:
+            run_time = None
         ocena_kritikov = re.findall(r'<div class="allmovie-rating.*?>(.*?)<\/div>', vsebina, re.DOTALL)
         if ocena_kritikov:
             ocena_kritikov = int(ocena_kritikov[0].strip())
+        else:
+            ocena_kritikov = None
 
         html_datoteke_igralci = './zajeti-podatki/filmi-cast/'
         vsebina_igralci = orodja.vsebina_datoteke(html_datoteke_igralci + filename)
