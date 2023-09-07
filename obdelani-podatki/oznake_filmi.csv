@@ -1,0 +1,2117 @@
+film,oznaka
+0,Adult Language
+0,Adult Situations
+0,Not For Children
+0,Profanity
+0,Violence
+1,Drug Content
+1,Profanity
+1,Violence
+2,Violence
+3,Adult Situations
+3,Suitable for Children
+4,Mild Violence
+5,Sci-Fi Violence
+5,Watch With Your Kids
+6,Adult Situations
+7,Adult Language
+7,Violence
+8,Nudity
+8,Profanity
+8,Strong Sexual Content
+10,Adult Situations
+10,Questionable for Children
+10,Smoking
+12,Adult Humor
+12,Adult Situations
+12,Mild Violence
+12,Not For Children
+12,Profanity
+13,Adult Situations
+13,Questionable for Children
+14,Adult Situations
+14,Profanity
+14,Violence
+15,Drug Content
+15,Gore
+15,Graphic Violence
+15,Nudity
+15,Profanity
+15,Sexual Situations
+16,Adult Language
+16,Adult Situations
+16,Mild Violence
+16,Suitable for Children
+17,Adult Situations
+17,Not For Children
+17,Rape & Sexual Abuse
+17,Violence
+18,Questionable for Children
+18,Violence
+19,Adult Humor
+19,Adult Situations
+19,Mild Violence
+19,Not For Children
+19,Nudity
+19,Profanity
+19,Strong Sexual Content
+19,Watch With Your Teen
+20,Adult Language
+20,Gore
+20,Not For Children
+20,Profanity
+20,Violence
+21,Gore
+21,Not For Children
+21,Profanity
+22,Excellent For Children
+24,Adult Situations
+25,Adult Situations
+25,Mild Violence
+25,Suitable for Children
+26,Adult Situations
+26,Questionable for Children
+28,Not For Children
+28,Violence
+29,Adult Situations
+29,Not For Children
+29,Profanity
+29,Sexual Situations
+29,Substance Abuse
+30,Graphic Violence
+30,Not For Children
+30,Profanity
+30,Rape & Sexual Abuse
+30,Watch With Your Teen
+31,Adult Situations
+31,Not For Children
+31,Nudity
+34,Suitable for Children
+35,Adult Humor
+35,Questionable for Children
+36,Suitable for Children
+41,Adult Situations
+41,Questionable for Children
+42,Adult Situations
+42,Not For Children
+42,Violence
+43,Mild Violence
+44,Adult Language
+44,Adult Situations
+44,Violence
+44,Youth Substance Use
+45,Adult Situations
+46,Not For Children
+46,Violence
+47,Adult Language
+47,Adult Situations
+48,Adult Situations
+49,Suitable for Children
+50,Brief Nudity
+50,Sexual Situations
+51,Rape & Sexual Abuse
+53,Violence
+54,Not For Children
+55,Suitable for Children
+56,Sexual Situations
+56,Violence
+57,Questionable for Children
+57,Western Violence
+58,Suitable for Children
+59,Suitable for Children
+60,Brief Nudity
+60,Graphic Violence
+60,Profanity
+61,Suitable for Children
+62,Adult Situations
+62,Profanity
+63,Adult Situations
+64,Profanity
+64,Sexual Situations
+65,Adult Situations
+66,Excellent For Children
+67,Adult Language
+67,Adult Situations
+67,Mild Violence
+67,Questionable for Children
+68,Adult Humor
+68,Adult Situations
+68,Mild Violence
+68,Profanity
+68,Sexual Situations
+69,Suitable for Children
+70,Adult Language
+70,Adult Situations
+70,Not For Children
+70,Profanity
+70,Violence
+71,Mild Violence
+71,Questionable for Children
+71,Suitable for Teens
+72,Suitable for Children
+74,Profanity
+74,Sexual Situations
+75,Adult Humor
+75,Questionable for Children
+76,Suitable for Children
+77,Drug Content
+77,Nudity
+77,Profanity
+77,Sexual Situations
+78,Adult Situations
+78,Not For Children
+78,Nudity
+78,Strong Sexual Content
+79,Gore
+79,Graphic Violence
+79,Profanity
+80,Not For Children
+80,Sexual Situations
+80,Violence
+81,Adult Situations
+81,Nudity
+81,Questionable for Children
+81,Violence
+82,Adult Situations
+82,Not For Children
+82,Violence
+83,Adult Humor
+83,Graphic Violence
+84,Adult Situations
+84,Brief Nudity
+84,Mild Violence
+84,Not For Children
+85,Adult Situations
+85,Not For Children
+85,Violence
+87,Adult Situations
+87,Brief Nudity
+87,Questionable for Children
+87,Violence
+88,Suitable for Children
+89,Adult Situations
+89,Suitable for Teens
+90,Profanity
+90,Violence
+91,Adult Situations
+91,Mild Violence
+91,Suitable for Children
+91,Western Violence
+92,Profanity
+92,Sexual Situations
+94,Adult Situations
+94,Questionable for Children
+95,Suitable for Children
+96,Brief Nudity
+96,Profanity
+96,Sexual Situations
+96,Violence
+97,Suitable for Children
+97,Violence
+98,War Violence
+99,Suitable for Children
+100,Adult Language
+100,Adult Situations
+101,Adult Humor
+101,Adult Situations
+103,Adult Situations
+103,Not For Children
+104,Drug Content
+104,Nudity
+104,Sexual Situations
+105,Adult Language
+105,Suitable for Children
+105,Violence
+106,Nudity
+106,Profanity
+106,Sexual Situations
+106,Violence
+107,Adult Humor
+107,Adult Language
+107,Adult Situations
+107,Questionable for Children
+108,Adult Situations
+108,Questionable for Children
+108,Violence
+109,Suitable for Children
+111,Suitable for Children
+113,Adult Language
+113,Not For Children
+113,Sexual Situations
+114,Adult Situations
+114,Questionable for Children
+114,Violence
+115,Not For Children
+115,Violence
+116,Adult Situations
+117,Adult Humor
+117,Not For Children
+117,Sexual Situations
+119,Drug Content
+119,Nudity
+119,Profanity
+119,Strong Sexual Content
+119,Violence
+120,Graphic Violence
+120,Not For Children
+120,Profanity
+120,Strong Sexual Content
+121,Suitable for Children
+122,Questionable for Children
+123,Adult Situations
+123,Not For Children
+123,Violence
+124,Not For Children
+124,Violence
+125,Suitable for Children
+126,Adult Situations
+126,Violence
+128,Adult Humor
+128,Suitable for Children
+130,Child Classic
+131,Profanity
+131,Sexual Situations
+131,Violence
+131,Youth Substance Use
+132,Adult Situations
+132,Suitable for Children
+133,Adult Situations
+133,Mild Violence
+133,Questionable for Children
+134,Adult Situations
+135,Adult Language
+135,Adult Situations
+135,Brief Nudity
+135,Not For Children
+135,Substance Abuse
+135,Violence
+136,Child Classic
+136,Scary Moments
+139,Adult Language
+139,Adult Situations
+139,Questionable for Children
+139,Violence
+140,Scary Moments
+140,Violence
+141,Adult Humor
+141,Adult Situations
+141,Nudity
+141,Profanity
+141,Sexual Situations
+142,Graphic Violence
+142,Not For Children
+143,Adult Situations
+143,Questionable for Children
+144,Suitable for Children
+146,Adult Language
+146,Brief Nudity
+146,Sci-Fi Violence
+147,Graphic Violence
+147,Not For Children
+147,Nudity
+147,Profanity
+147,Strong Sexual Content
+147,Substance Abuse
+148,Adult Language
+148,Not For Children
+148,Sexual Situations
+149,Suitable for Children
+150,Child Classic
+150,Scary Moments
+150,Watch With Your Kids
+151,Drug Content
+151,Nudity
+151,Profanity
+151,Strong Sexual Content
+152,Adult Situations
+153,Mild Violence
+153,Profanity
+154,Adult Situations
+154,Not For Children
+154,Nudity
+154,Profanity
+154,Strong Sexual Content
+154,Violence
+156,Nudity
+156,Profanity
+156,Violence
+157,Questionable for Children
+157,Violence
+158,Excellent For Children
+158,Scary Moments
+159,Adult Language
+159,Adult Situations
+159,Nudity
+160,Suitable for Children
+164,Adult Situations
+165,Adult Situations
+165,Mild Violence
+165,Questionable for Children
+166,Suitable for Children
+167,Adult Situations
+167,Violence
+168,Graphic Violence
+168,Profanity
+168,Sexual Situations
+168,Violence
+169,Adult Situations
+169,Nudity
+169,Questionable for Children
+169,Violence
+170,Adult Situations
+170,Not For Children
+170,Violence
+170,War Violence
+171,Graphic Violence
+171,Not For Children
+171,Profanity
+171,Sexual Situations
+173,Questionable for Children
+174,Scatological Humor
+175,Adult Language
+175,Adult Situations
+176,Adult Situations
+176,Graphic Violence
+176,Profanity
+177,Not For Children
+177,Violence
+178,Adult Language
+178,Adult Situations
+178,Questionable for Children
+179,Adult Situations
+179,Not For Children
+179,Nudity
+180,Adult Humor
+180,Sexual Situations
+181,Adult Humor
+181,Adult Language
+181,Adult Situations
+181,Questionable for Children
+183,Violence
+184,Profanity
+184,Violence
+185,Adult Situations
+185,Not For Children
+185,Violence
+188,Adult Language
+188,Graphic Violence
+188,Not For Children
+188,Strong Sexual Content
+189,Suitable for Children
+190,Violence
+191,Adult Situations
+191,Not For Children
+191,Nudity
+191,Profanity
+191,Sexual Situations
+192,Not For Children
+192,Profanity
+192,Sexual Situations
+192,Violence
+193,Drug Content
+193,Graphic Violence
+193,Profanity
+193,Strong Sexual Content
+194,Drug Content
+194,Profanity
+194,Violence
+195,Adult Situations
+195,Gore
+195,Graphic Violence
+195,Sexual Situations
+196,Suitable for Children
+198,Adult Situations
+199,Profanity
+200,Adult Situations
+200,Suitable for Teens
+201,Nudity
+201,Profanity
+201,Sexual Situations
+201,Violence
+202,Excellent For Children
+203,Adult Situations
+204,Brief Nudity
+204,Not For Children
+204,Profanity
+204,Violence
+205,Profanity
+205,Violence
+206,Excellent For Children
+206,Mild Violence
+207,Western Violence
+208,Adult Situations
+209,Adult Humor
+209,Adult Situations
+209,Not For Children
+209,Suitable for Teens
+212,Smoking
+213,Adult Language
+213,Adult Situations
+213,Not For Children
+213,Substance Abuse
+213,Violence
+214,Sci-Fi Violence
+215,Gore
+215,Violence
+216,Suitable for Children
+217,Questionable for Children
+218,Profanity
+218,Violence
+219,Child Classic
+220,Questionable for Children
+220,Violence
+221,Graphic Violence
+221,Profanity
+221,Sexual Situations
+222,Drug Content
+222,Graphic Violence
+222,Nudity
+222,Profanity
+222,Sexual Situations
+223,Sci-Fi Violence
+223,Suitable for Children
+224,Adult Language
+224,Adult Situations
+224,Children in Peril
+224,Smoking
+226,Adult Situations
+227,Adult Humor
+227,Scary Moments
+227,Violence
+228,Adult Humor
+228,Suitable for Children
+229,Adult Situations
+229,Not For Children
+230,Adult Situations
+231,Gore
+231,Profanity
+231,Violence
+232,Adult Humor
+232,Adult Situations
+232,Brief Nudity
+232,Profanity
+232,Questionable for Children
+232,Sexual Situations
+232,Violence
+234,Mild Violence
+234,Not For Children
+234,Sexual Situations
+235,Adult Language
+235,Adult Situations
+235,Smoking
+235,Violence
+236,Suitable for Children
+237,Questionable for Children
+237,Violence
+239,Adult Humor
+239,War Violence
+240,Adult Situations
+240,Violence
+241,Adult Language
+241,Sci-Fi Violence
+242,Graphic Violence
+242,Profanity
+243,Adult Language
+243,Nudity
+243,Violence
+245,Alcohol Consumption
+245,Drug Content
+245,Graphic Violence
+245,Profanity
+246,Profanity
+246,Violence
+247,Brief Nudity
+247,Profanity
+247,Sexual Situations
+247,Violence
+248,Not For Children
+249,Profanity
+249,War Violence
+250,Adult Situations
+251,Not For Children
+251,Violence
+252,Adult Language
+252,Adult Situations
+252,Drug Content
+252,Mild Violence
+252,Not For Children
+254,Drug Content
+254,Profanity
+254,Violence
+255,Adult Language
+256,Gore
+256,Not For Children
+256,Profanity
+256,Sexual Situations
+257,Adult Situations
+259,Not For Children
+259,Substance Abuse
+259,Violence
+260,Questionable for Children
+260,Violence
+263,Not For Children
+263,Strong Sexual Content
+264,Adult Situations
+264,Profanity
+264,Violence
+266,Mild Violence
+266,Questionable for Children
+268,Scary Moments
+268,Violence
+269,Adult Situations
+269,Sexual Situations
+270,Suitable for Children
+271,Adult Situations
+271,Not For Children
+271,Strong Sexual Content
+272,Profanity
+272,Violence
+273,Adult Situations
+273,Not For Children
+273,Strong Sexual Content
+274,Violence
+275,Suitable for Children
+276,Violence
+277,Excellent For Children
+277,Mild Violence
+277,Scary Moments
+278,Graphic Violence
+278,Not For Children
+278,Rape & Sexual Abuse
+279,Mild Violence
+279,Questionable for Children
+280,Questionable for Children
+280,Violence
+281,Questionable for Children
+284,Adult Language
+284,Not For Children
+284,Violence
+286,Adult Humor
+286,Adult Situations
+286,Drug Content
+286,Profanity
+286,Sexual Situations
+287,Suitable for Children
+287,Violence
+290,Adult Language
+290,Sci-Fi Violence
+290,Suitable for Teens
+292,Questionable for Children
+293,Suitable for Children
+294,Adult Humor
+294,Questionable for Children
+294,Slapstick Violence
+295,Gore
+295,Graphic Violence
+295,Nudity
+295,Profanity
+295,Sexual Situations
+296,Suitable for Children
+297,Smoking
+297,Western Violence
+298,Adult Situations
+299,Adult Language
+299,Adult Situations
+299,Graphic Violence
+299,Not For Children
+299,Nudity
+301,Drug Content
+301,Nudity
+301,Profanity
+301,Strong Sexual Content
+302,Gore
+302,Graphic Violence
+302,Not For Children
+302,Sci-Fi Violence
+304,Not For Children
+304,Profanity
+304,Scary Moments
+304,Violence
+305,Mild Violence
+306,Adult Language
+306,Questionable for Children
+306,Violence
+307,Adult Situations
+307,Brief Nudity
+307,Mild Violence
+308,Child Classic
+309,Adult Situations
+310,Not For Children
+310,Sexual Situations
+310,Violence
+312,Adult Situations
+312,Brief Nudity
+312,Not For Children
+312,Violence
+313,Adult Humor
+315,Not For Children
+316,Adult Language
+316,Excellent For Children
+316,Mild Violence
+317,Questionable for Children
+318,Adult Situations
+318,Not For Children
+319,Adult Situations
+319,Questionable for Children
+321,Profanity
+322,Suitable for Children
+323,Violence
+324,Mild Violence
+325,Mild Violence
+326,Questionable for Children
+327,Profanity
+327,Violence
+328,Profanity
+329,Questionable for Children
+330,Sci-Fi Violence
+331,Adult Situations
+332,Nudity
+332,Profanity
+332,Sexual Situations
+333,Excellent For Children
+334,Mild Language
+334,Suitable for Children
+335,Suitable for Children
+336,Adult Humor
+336,Adult Situations
+338,Suitable for Children
+339,Suitable for Children
+339,Western Violence
+341,Adult Language
+341,Alcohol Consumption
+341,Child Classic
+341,Scary Moments
+341,Watch With Your Kids
+342,Graphic Violence
+342,Not For Children
+343,Mild Violence
+343,Suitable for Children
+345,Adult Situations
+345,Profanity
+345,Questionable for Children
+346,Not For Children
+346,Violence
+348,Graphic Violence
+348,Profanity
+349,Adult Situations
+349,Questionable for Children
+349,Rape & Sexual Abuse
+350,Nudity
+350,Questionable for Children
+351,Adult Situations
+351,Profanity
+351,Scary Moments
+351,Violence
+352,Drug Content
+352,Graphic Violence
+352,Nudity
+352,Profanity
+352,Sexual Situations
+353,Adult Language
+353,Violence
+355,Adult Language
+355,Sci-Fi Violence
+355,Suitable for Teens
+356,Adult Situations
+356,Violence
+357,Adult Situations
+357,Not For Children
+358,Adult Situations
+358,Not For Children
+360,Adult Situations
+360,Scary Moments
+360,Suitable for Teens
+360,Violence
+360,Watch With Your Kids
+361,Adult Language
+361,Adult Situations
+361,Not For Children
+362,Adult Situations
+362,Not For Children
+363,Profanity
+364,Adult Situations
+365,Adult Situations
+365,Profanity
+365,Violence
+366,Adult Situations
+366,Profanity
+366,Questionable for Children
+367,Profanity
+367,Sci-Fi Violence
+368,Adult Situations
+368,Profanity
+369,Adult Situations
+369,Profanity
+369,Questionable for Children
+369,Western Violence
+370,Adult Situations
+370,Gore
+370,Graphic Violence
+370,Not For Children
+370,Profanity
+370,War Violence
+371,Questionable for Children
+374,Suitable for Children
+375,Adult Language
+375,Mild Violence
+375,Questionable for Children
+376,Profanity
+377,Adult Situations
+377,Violence
+378,Adult Situations
+378,Not For Children
+381,Excellent For Children
+382,Profanity
+382,Sexual Situations
+382,Violence
+383,Adult Situations
+383,Nudity
+383,Profanity
+383,Sci-Fi Violence
+385,Adult Situations
+386,Profanity
+386,Sexual Situations
+386,Violence
+388,Profanity
+388,Sci-Fi Violence
+389,Adult Language
+389,Adult Situations
+389,Not For Children
+389,Nudity
+389,Violence
+390,Adult Situations
+390,Not For Children
+391,Adult Humor
+391,Adult Situations
+391,Profanity
+391,Sexual Situations
+391,Violence
+392,Adult Situations
+392,Graphic Violence
+392,Profanity
+394,Adult Situations
+394,Mild Violence
+394,Nudity
+396,Adult Situations
+396,Western Violence
+397,Drug Content
+397,Graphic Violence
+397,Profanity
+397,Strong Sexual Content
+398,Children in Peril
+398,Gore
+398,Not For Children
+398,Profanity
+398,Sci-Fi Violence
+399,Excellent For Children
+399,Scary Moments
+401,Mild Violence
+401,Not For Children
+402,Adult Humor
+402,Adult Situations
+402,Profanity
+402,Rape & Sexual Abuse
+402,Violence
+403,Not For Children
+405,Graphic Violence
+405,Not For Children
+405,Profanity
+405,War Violence
+405,Watch With Your Teen
+406,Adult Situations
+407,Adult Language
+407,Adult Situations
+407,Gore
+407,Not For Children
+407,Nudity
+407,Profanity
+407,Strong Sexual Content
+407,Violence
+408,Suitable for Children
+409,Profanity
+409,Sci-Fi Violence
+410,Adult Language
+410,Adult Situations
+410,Watch With Your Kids
+411,Violence
+412,Adult Situations
+412,Profanity
+412,Questionable for Children
+413,Adult Situations
+413,Nudity
+413,Profanity
+413,Sexual Situations
+415,Suitable for Children
+416,Adult Language
+416,Adult Situations
+416,Not For Children
+416,Nudity
+416,Profanity
+416,Strong Sexual Content
+416,Violence
+417,Adult Situations
+417,Questionable for Children
+417,Violence
+418,Adult Language
+418,War Violence
+419,Adult Language
+419,Adult Situations
+420,Adult Language
+420,Adult Situations
+420,Sexual Situations
+420,Violence
+421,Profanity
+421,Violence
+422,Suitable for Children
+423,Sci-Fi Violence
+424,Adult Situations
+424,Profanity
+424,Violence
+425,Scary Moments
+425,Violence
+427,Suitable for Children
+428,Adult Language
+428,Not For Children
+428,Nudity
+428,Sexual Situations
+428,Violence
+429,Adult Humor
+429,Adult Situations
+429,Not For Children
+429,Nudity
+429,Profanity
+429,Violence
+430,Adult Situations
+430,Violence
+431,Adult Situations
+431,Mild Violence
+431,Profanity
+431,Questionable for Children
+432,Suitable for Children
+434,Adult Situations
+434,Scary Moments
+435,Adult Situations
+435,Questionable for Children
+436,Questionable for Children
+436,Suitable for Children
+436,Violence
+437,Adult Language
+437,Adult Situations
+437,Nudity
+437,Substance Abuse
+438,Adult Language
+439,Adult Situations
+439,Strong Sexual Content
+441,Adult Situations
+443,Mild Violence
+444,Not For Children
+444,Violence
+445,Alcohol Consumption
+445,Drug Content
+445,Mild Violence
+445,Not For Children
+445,Nudity
+445,Profanity
+445,Sexual Situations
+446,Violence
+447,Adult Situations
+447,Not For Children
+447,Violence
+448,Adult Situations
+448,Brief Nudity
+448,Graphic Violence
+448,Profanity
+449,Mild Violence
+449,Suitable for Children
+449,Western Violence
+450,Suitable for Children
+451,Adult Situations
+451,Suitable for Children
+452,Profanity
+452,Sexual Situations
+453,Adult Language
+453,Adult Situations
+453,Not For Children
+453,Violence
+454,Adult Humor
+454,Questionable for Children
+455,Questionable for Children
+457,Mild Violence
+457,Suitable for Children
+458,Not For Children
+458,Violence
+459,Adult Situations
+459,Profanity
+459,Watch With Your Teen
+460,Profanity
+460,Sexual Situations
+460,Violence
+461,Profanity
+461,Violence
+462,Adult Situations
+462,Graphic Violence
+462,Not For Children
+463,Adult Situations
+463,Profanity
+463,Rape & Sexual Abuse
+464,Adult Situations
+464,Not For Children
+464,Violence
+465,Adult Situations
+465,Not For Children
+466,Mild Violence
+466,Western Violence
+467,Violence
+468,Adult Situations
+468,Questionable for Children
+470,Suitable for Children
+471,Questionable for Children
+471,Western Violence
+472,Drug Content
+472,Profanity
+472,Sexual Situations
+472,Violence
+473,Adult Situations
+473,Violence
+474,Adult Humor
+474,Adult Situations
+474,Sexual Situations
+475,Adult Humor
+475,Not For Children
+475,Sexual Situations
+477,Questionable for Children
+477,Violence
+478,Graphic Violence
+478,Not For Children
+478,Profanity
+480,Drug Content
+480,Nudity
+480,Profanity
+481,Adult Language
+481,Adult Situations
+481,Not For Children
+481,Nudity
+481,Strong Sexual Content
+481,Violence
+482,Profanity
+482,Sci-Fi Violence
+483,Suitable for Children
+484,Adult Situations
+484,Profanity
+485,Adult Situations
+485,Not For Children
+486,Not For Children
+486,Violence
+488,Adult Situations
+488,War Violence
+489,Suitable for Children
+491,Profanity
+491,Sexual Situations
+491,Violence
+492,Adult Humor
+492,Adult Situations
+492,Mild Violence
+492,Not For Children
+492,Nudity
+492,Profanity
+492,Sexual Situations
+493,Adult Humor
+493,Questionable for Children
+494,Not For Children
+494,Profanity
+494,Sexual Situations
+494,Violence
+496,Adult Language
+496,Adult Situations
+496,Gore
+496,Graphic Violence
+496,Not For Children
+499,Not For Children
+499,Violence
+500,Brief Nudity
+500,Gore
+500,Profanity
+500,Rape & Sexual Abuse
+500,Violence
+501,Adult Humor
+501,Adult Situations
+501,Not For Children
+502,Profanity
+502,Violence
+503,Not For Children
+503,Profanity
+503,Violence
+505,Questionable for Children
+505,Violence
+506,Adult Situations
+506,Not For Children
+506,Western Violence
+507,Not For Children
+508,Adult Humor
+508,Adult Situations
+508,Questionable for Children
+508,Sexual Situations
+509,Nudity
+509,Profanity
+509,Sexual Situations
+509,Violence
+510,Not For Children
+510,War Violence
+511,Child Classic
+512,Adult Situations
+514,Questionable for Children
+514,Violence
+516,Suitable for Children
+517,Questionable for Children
+518,Profanity
+518,Sexual Situations
+518,Violence
+521,Adult Humor
+521,Adult Situations
+521,Drug Content
+521,Profanity
+521,Sexual Situations
+522,Violence
+522,Watch With Your Kids
+523,Not For Children
+523,Nudity
+523,Sexual Situations
+524,Suitable for Children
+525,Drug Content
+525,Sexual Situations
+525,Violence
+526,Not For Children
+526,Violence
+527,Sci-Fi Violence
+527,Violence
+528,Suitable for Children
+529,Adult Language
+529,Drug Content
+529,Nudity
+529,Sexual Situations
+530,Adult Situations
+530,Not For Children
+530,Violence
+531,Excellent For Children
+532,Adult Situations
+532,Not For Children
+532,Violence
+533,Not For Children
+533,Substance Abuse
+533,Violence
+534,Profanity
+534,Violence
+535,Adult Language
+535,Not For Children
+535,Violence
+536,Adult Situations
+536,Drug Content
+536,Violence
+537,Suitable for Children
+538,Adult Situations
+538,Questionable for Children
+539,Adult Language
+539,Adult Situations
+541,Questionable for Children
+542,Adult Language
+542,Adult Situations
+542,Not For Children
+542,Nudity
+542,Sexual Situations
+542,Suitable for Teens
+542,Violence
+544,Adult Language
+544,Graphic Violence
+545,Adult Humor
+545,Profanity
+546,Suitable for Children
+547,Suitable for Children
+548,Mild Violence
+550,Nudity
+550,Strong Sexual Content
+550,Violence
+551,Brief Nudity
+551,Graphic Violence
+551,Not For Children
+552,Adult Situations
+552,Questionable for Children
+552,Violence
+553,Graphic Violence
+553,Not For Children
+553,Rape & Sexual Abuse
+553,Sexual Situations
+554,Adult Language
+554,Adult Situations
+554,Violence
+555,Profanity
+555,Sexual Situations
+555,Violence
+556,Western Violence
+557,Adult Situations
+557,Not For Children
+557,Nudity
+557,Profanity
+557,Strong Sexual Content
+557,Substance Abuse
+557,Violence
+559,Adult Situations
+559,Questionable for Children
+560,Adult Language
+560,Graphic Violence
+560,Not For Children
+560,Violence
+561,Drug Content
+561,Gore
+561,Graphic Violence
+561,Nudity
+561,Profanity
+561,Sexual Situations
+562,Not For Children
+562,Profanity
+564,Graphic Violence
+564,Not For Children
+564,Profanity
+565,Adult Language
+565,Violence
+567,Adult Situations
+567,Not For Children
+567,Sexual Situations
+567,Violence
+568,Questionable for Children
+569,Profanity
+569,Violence
+570,Violence
+572,Mild Violence
+572,Questionable for Children
+573,Adult Situations
+573,Mild Violence
+574,Adult Language
+574,Mild Violence
+574,Slapstick Violence
+574,Suitable for Teens
+574,Watch With Your Kids
+575,Child Classic
+576,Adult Situations
+576,Brief Nudity
+576,Drug Content
+576,Not For Children
+576,Profanity
+576,Violence
+577,Adult Situations
+577,Violence
+578,Adult Language
+578,Nudity
+578,Sexual Situations
+579,Adult Situations
+579,Substance Abuse
+580,Graphic Violence
+580,Nudity
+580,Sexual Situations
+581,Adult Situations
+581,Not For Children
+581,Violence
+582,Adult Situations
+582,Questionable for Children
+583,Not For Children
+584,Adult Language
+584,Excellent For Children
+585,Brief Nudity
+585,Drug Content
+585,Profanity
+588,Adult Situations
+589,Child Classic
+590,Questionable for Children
+591,Adult Language
+591,Violence
+592,Drug Content
+592,Profanity
+593,Profanity
+593,Violence
+594,Suitable for Children
+595,Adult Language
+595,Adult Situations
+595,Graphic Violence
+595,Not For Children
+595,Western Violence
+596,Adult Situations
+596,Questionable for Children
+596,Violence
+597,Mild Violence
+597,Questionable for Children
+599,Adult Humor
+599,Adult Situations
+599,Questionable for Children
+600,Adult Language
+600,Not For Children
+600,Violence
+601,Violence
+602,Profanity
+602,Violence
+603,Adult Situations
+603,Violence
+604,Not For Children
+604,Profanity
+604,Violence
+605,Adult Situations
+605,Not For Children
+605,Violence
+606,Adult Language
+606,Adult Situations
+607,Scary Moments
+607,Violence
+608,Suitable for Children
+609,Suitable for Children
+610,Excellent For Children
+611,Scary Moments
+611,Suitable for Children
+613,Not For Children
+613,Violence
+614,Mild Violence
+614,Questionable for Children
+614,Western Violence
+615,Adult Language
+615,Adult Situations
+615,Not For Children
+615,Violence
+617,Violence
+618,Adult Situations
+618,Not For Children
+618,Nudity
+618,Profanity
+618,Strong Sexual Content
+618,Violence
+618,Watch With Your Teen
+620,Suitable for Children
+621,Adult Language
+621,Nudity
+621,Sci-Fi Violence
+621,Sexual Situations
+623,Graphic Violence
+623,Profanity
+623,Sexual Situations
+624,Suitable for Children
+625,Profanity
+626,Adult Humor
+626,Adult Language
+626,Questionable for Children
+627,Profanity
+627,Sexual Situations
+628,Adult Situations
+628,Questionable for Children
+629,Excellent For Children
+631,Mild Violence
+631,Western Violence
+633,Questionable for Children
+633,Rape & Sexual Abuse
+635,Adult Language
+635,Adult Situations
+635,Suitable for Teens
+636,Adult Humor
+636,Not For Children
+637,Adult Language
+637,Adult Situations
+637,Brief Nudity
+637,Graphic Violence
+637,Not For Children
+637,Sexual Situations
+638,Adult Situations
+638,Rape & Sexual Abuse
+638,Sexual Situations
+638,Violence
+640,Adult Situations
+640,Suitable for Children
+641,Adult Situations
+641,Graphic Violence
+642,Adult Humor
+642,Adult Situations
+642,Not For Children
+642,Violence
+643,Suitable for Children
+644,Adult Situations
+644,Questionable for Children
+645,Adult Situations
+645,Mild Violence
+645,Suitable for Children
+646,Adult Situations
+646,Questionable for Children
+646,Violence
+647,Adult Situations
+647,Violence
+648,Adult Situations
+648,Not For Children
+649,Gore
+649,Graphic Violence
+649,Not For Children
+649,Nudity
+649,Profanity
+650,Adult Situations
+650,Questionable for Children
+651,Brief Nudity
+651,Profanity
+651,Violence
+653,Suitable for Children
+654,Nudity
+654,Profanity
+654,Sexual Situations
+655,Adult Situations
+656,Adult Language
+656,Sexual Situations
+656,Violence
+659,Adult Situations
+659,Violence
+660,Child Classic
+660,Excellent For Children
+662,Adult Language
+662,Adult Situations
+662,Drug Content
+662,Gore
+662,Graphic Violence
+662,Nudity
+662,Profanity
+662,Sexual Situations
+663,Adult Situations
+663,Violence
+664,Profanity
+664,Sci-Fi Violence
+666,Suitable for Children
+667,Adult Language
+667,Adult Situations
+667,Questionable for Children
+667,Violence
+668,Graphic Violence
+669,Adult Humor
+669,Adult Situations
+669,Brief Nudity
+669,Questionable for Children
+670,Nudity
+671,Profanity
+672,Suitable for Children
+673,Profanity
+673,Violence
+674,Graphic Violence
+674,Not For Children
+674,Profanity
+676,Adult Situations
+676,Questionable for Children
+677,Not For Children
+678,Adult Situations
+679,Profanity
+680,Adult Language
+680,Violence
+681,Adult Situations
+681,Not For Children
+681,Nudity
+681,Profanity
+681,Violence
+682,Brief Nudity
+682,Profanity
+683,Suitable for Children
+684,Drug Content
+684,Not For Children
+684,Nudity
+684,Profanity
+684,Sexual Situations
+684,War Violence
+685,Suitable for Children
+686,Adult Situations
+686,Mild Violence
+686,Suitable for Children
+687,Adult Situations
+687,Drug Content
+687,Graphic Violence
+687,Not For Children
+687,Nudity
+687,Profanity
+687,Strong Sexual Content
+688,Not For Children
+689,Questionable for Children
+689,Violence
+692,Adult Humor
+692,Not For Children
+692,Profanity
+692,Sexual Situations
+693,Brief Nudity
+693,Drug Content
+693,Profanity
+693,Sexual Situations
+693,Violence
+694,Alcohol Consumption
+694,Profanity
+694,Youth Substance Use
+695,Adult Language
+695,Not For Children
+695,Nudity
+695,Strong Sexual Content
+696,Adult Humor
+696,Adult Situations
+696,Not For Children
+696,Violence
+697,Adult Situations
+697,Mild Violence
+697,Suitable for Children
+698,Adult Situations
+699,Questionable for Children
+699,Violence
+700,Adult Humor
+700,Adult Situations
+700,Sexual Situations
+701,Suitable for Children
+702,Nudity
+702,Profanity
+702,Violence
+703,Brief Nudity
+703,Profanity
+703,Violence
+704,Drug Content
+704,Graphic Violence
+704,Nudity
+704,Profanity
+704,Strong Sexual Content
+706,Adult Situations
+706,Drug Content
+706,Graphic Violence
+706,Nudity
+706,Sexual Situations
+707,Brief Nudity
+707,Graphic Violence
+707,Questionable for Children
+708,Adult Situations
+710,Profanity
+710,Violence
+711,Adult Situations
+711,Questionable for Children
+711,Violence
+712,Adult Situations
+712,Not For Children
+712,Nudity
+712,Profanity
+712,Sexual Situations
+713,Graphic Violence
+714,Profanity
+714,Sexual Situations
+714,Violence
+715,Violence
+716,Suitable for Children
+718,Not For Children
+718,Nudity
+718,Strong Sexual Content
+718,Violence
+720,Mild Violence
+724,Not For Children
+724,Violence
+725,Adult Humor
+725,Adult Situations
+725,Not For Children
+726,Adult Language
+726,Drug Content
+726,Violence
+727,Suitable for Teens
+727,Violence
+728,Sexual Situations
+728,Violence
+729,Sci-Fi Violence
+730,Drug Content
+730,Profanity
+730,Sexual Situations
+731,Adult Situations
+732,Suitable for Children
+733,Adult Language
+733,Adult Situations
+733,Watch With Your Teen
+734,Adult Language
+734,Adult Situations
+734,Questionable for Children
+735,Adult Situations
+735,Suitable for Children
+736,Adult Humor
+736,Mild Violence
+737,Adult Language
+737,Mild Violence
+737,Questionable for Children
+739,Adult Situations
+740,Graphic Violence
+740,Nudity
+740,Profanity
+740,Rape & Sexual Abuse
+740,Strong Sexual Content
+741,Questionable for Children
+741,Suitable for Teens
+742,Adult Situations
+742,Graphic Violence
+742,Not For Children
+742,Profanity
+742,Sexual Situations
+742,War Violence
+743,Suitable for Children
+744,Not For Children
+744,Profanity
+744,Rape & Sexual Abuse
+744,Violence
+745,Questionable for Children
+746,Suitable for Children
+747,Adult Situations
+747,Scary Moments
+747,Violence
+747,Watch With Your Kids
+748,Suitable for Children
+749,Graphic Violence
+749,Nudity
+749,Profanity
+749,Sexual Situations
+749,Violence
+750,Adult Situations
+750,Sexual Situations
+750,Suitable for Children
+750,Violence
+751,Adult Situations
+752,Adult Situations
+752,Profanity
+752,Questionable for Children
+753,Adult Situations
+754,Adult Situations
+754,Mild Language
+754,Mild Violence
+755,Suitable for Children
+756,Drug Content
+756,Profanity
+756,Sexual Situations
+756,Violence
+757,Child Classic
+757,Scary Moments
+759,Questionable for Children
+759,Western Violence
+760,Adult Situations
+760,Violence
+761,Adult Situations
+763,Nudity
+763,Profanity
+763,Suitable for Children
+763,Violence
+764,Questionable for Children
+765,Mild Violence
+765,Scary Moments
+765,Watch With Your Kids
+766,Adult Situations
+768,Adult Humor
+768,Not For Children
+768,Western Violence
+769,Violence
+770,Adult Language
+770,Adult Situations
+770,Questionable for Children
+771,Profanity
+771,Violence
+773,Sci-Fi Violence
+778,Suitable for Children
+779,Graphic Violence
+779,Profanity
+779,Sexual Situations
+780,Child Classic
+780,Scary Moments
+781,Adult Situations
+781,Smoking
+782,Adult Situations
+782,Suitable for Children
+784,Suitable for Children
+785,Adult Language
+785,Adult Situations
+785,Questionable for Children
+786,Drug Content
+786,Graphic Violence
+786,Nudity
+786,Profanity
+787,Adult Situations
+787,Profanity
+787,Questionable for Children
+787,Violence
+788,Mild Language
+788,Violence
+789,Adult Situations
+789,Not For Children
+789,Profanity
+791,Adult Situations
+791,Excellent For Children
+791,Violence
+792,Suitable for Children
+793,Adult Situations
+793,Mild Violence
+793,Not For Children
+794,Adult Situations
+794,Profanity
+794,Questionable for Children
+794,Violence
+794,Watch With Your Teen
+795,Suitable for Children
+796,Brief Nudity
+796,Not For Children
+796,Violence
+798,Questionable for Children
+798,Suitable for Teens
+798,Violence
+800,Brief Nudity
+800,Drug Content
+800,Profanity
+800,Sexual Situations
+800,Violence
+801,Adult Situations
+801,Not For Children
+802,Adult Situations
+802,Brief Nudity
+802,Not For Children
+802,Substance Abuse
+802,Violence
+803,Adult Language
+803,Adult Situations
+803,Questionable for Children
+804,Profanity
+804,Violence
+805,Violence
+807,Adult Humor
+807,Adult Situations
+807,Mild Violence
+809,Adult Language
+809,Gore
+809,Graphic Violence
+810,Adult Language
+810,Drug Content
+811,Gore
+811,Profanity
+811,Violence
+812,Adult Language
+812,Adult Situations
+812,Graphic Violence
+812,Not For Children
+813,Adult Situations
+813,Questionable for Children
+813,Violence
+814,Suitable for Children
+815,Drug Content
+815,Nudity
+815,Profanity
+815,Sexual Situations
+815,Violence
+816,Mild Violence
+816,Questionable for Children
+817,Adult Situations
+817,Graphic Violence
+817,Not For Children
+817,Nudity
+818,Adult Humor
+818,Adult Language
+818,Adult Situations
+818,Nudity
+818,Strong Sexual Content
+819,Adult Situations
+819,Brief Nudity
+819,Graphic Violence
+819,Not For Children
+819,Profanity
+820,Violence
+821,Suitable for Children
+822,Adult Situations
+823,Suitable for Children
+825,Profanity
+826,Brief Nudity
+826,Mild Violence
+826,Questionable for Children
+829,Adult Situations
+829,Graphic Violence
+829,Profanity
+829,Sexual Situations
+830,Adult Situations
+831,Adult Situations
+831,Not For Children
+832,Adult Situations
+835,Adult Situations
+835,Questionable for Children
+835,Violence
+836,Not For Children
+837,Adult Language
+837,Adult Situations
+837,Violence
+838,Nudity
+838,Profanity
+838,Strong Sexual Content
+838,Violence
+839,Brief Nudity
+839,Drug Content
+839,Profanity
+839,Sexual Situations
+841,Adult Situations
+841,Not For Children
+841,Violence
+843,Gore
+843,Profanity
+843,Violence
+844,Alcohol Consumption
+844,Drug Content
+844,Profanity
+844,Sexual Situations
+844,Violence
+845,Adult Language
+845,Adult Situations
+845,Graphic Violence
+845,Not For Children
+845,Nudity
+846,Adult Humor
+846,Drug Content
+846,Profanity
+846,Sexual Situations
+846,Violence
+846,Youth Substance Use
+847,Adult Situations
+847,Not For Children
+848,Violence
+850,Adult Situations
+850,Not For Children
+850,Profanity
+850,Violence
+852,Graphic Violence
+852,Not For Children
+853,Profanity
+853,Violence
+854,Adult Situations
+854,Questionable for Children
+855,Adult Humor
+855,Adult Situations
+855,Not For Children
+855,Nudity
+855,Profanity
+855,Strong Sexual Content
+855,Violence
+856,Suitable for Children
+857,Questionable for Children
+859,Adult Situations
+859,Children in Peril
+859,Not For Children
+859,Violence
+860,Graphic Violence
+860,Not For Children
+865,Adult Language
+865,Adult Situations
+865,Not For Children
+865,Sexual Situations
+866,Profanity
+866,Violence
+867,Adult Language
+867,Adult Situations
+867,Mild Violence
+868,Adult Language
+868,Questionable for Children
+868,Suitable for Teens
+868,Violence
+869,Not For Children
+869,Violence
+870,Adult Situations
+870,Not For Children
+870,Western Violence
+871,Adult Humor
+871,Adult Language
+871,Adult Situations
+871,Questionable for Children
+872,Adult Situations
+873,Adult Situations
+873,Questionable for Children
+873,Violence
+874,Suitable for Children
+875,Adult Situations
+875,Not For Children
+875,Nudity
+875,Rape & Sexual Abuse
+876,Adult Humor
+876,Suitable for Children
+878,Adult Language
+878,Violence
+880,Questionable for Children
+880,Violence
+883,Profanity
+883,Sexual Situations
+883,Smoking
+883,Violence
+884,Excellent For Children
+885,Adult Situations
+885,Mild Violence
+886,Adult Situations
+886,Brief Nudity
+886,Not For Children
+886,Sexual Situations
+887,Mild Violence
+887,Suitable for Children
+887,Western Violence
+888,Adult Situations
+888,Brief Nudity
+889,Adult Situations
+889,Suitable for Children
+890,Adult Humor
+890,Adult Situations
+891,Profanity
+891,Rape & Sexual Abuse
+891,Violence
+892,Sci-Fi Violence
+893,Scary Moments
+893,Violence
+895,Graphic Violence
+895,Profanity
+895,Violence
+896,Adult Situations
+896,Graphic Violence
+896,Not For Children
+896,Nudity
+896,Profanity
+896,Watch With Your Teen
+897,Adult Situations
+897,Suitable for Teens
+897,Violence
+898,Suitable for Children
+900,Adult Humor
+900,Adult Situations
+900,Questionable for Children
+901,Mild Violence
+901,Suitable for Children
+902,Adult Situations
+903,Adult Situations
+903,Not For Children
+903,Violence
+904,Profanity
+904,Violence
+905,Drug Content
+905,Profanity
+905,Sexual Situations
+905,Violence
+906,Adult Situations
+906,Sexual Situations
+907,Adult Situations
+907,Mild Violence
+907,Suitable for Children
+908,Adult Situations
+908,Not For Children
+908,Western Violence
+910,Mild Violence
+910,Suitable for Children
+911,Questionable for Children
+912,Adult Language
+912,Adult Situations
+912,Brief Nudity
+912,Questionable for Children
+913,Not For Children
+913,Strong Sexual Content
+913,Violence
+914,Adult Language
+914,Graphic Violence
+914,Not For Children
+915,Adult Situations
+915,Not For Children
+917,Adult Language
+917,Questionable for Children
+917,Violence
+918,Profanity
+918,Sexual Situations
+920,Mild Violence
+920,Suitable for Children
+921,Mild Violence
+921,Western Violence
+922,Graphic Violence
+922,Not For Children
+923,Adult Situations
+923,Profanity
+924,Adult Situations
+924,Not For Children
+925,Adult Situations
+926,Adult Situations
+926,Questionable for Children
+927,Alcohol Consumption
+927,Mild Violence
+927,Not For Children
+927,Profanity
+927,Sexual Situations
+927,Watch With Your Teen
+928,Child Classic
+928,Excellent For Children
+930,Profanity
+932,Adult Situations
+932,Brief Nudity
+932,Drug Content
+932,Violence
+933,Adult Situations
+935,Adult Language
+935,Adult Situations
+935,Not For Children
+935,Violence
+936,Adult Humor
+936,Adult Situations
+937,Adult Situations
+937,Violence
+938,Adult Language
+938,Adult Situations
+938,Brief Nudity
+938,Graphic Violence
+938,Not For Children
+939,Adult Situations
+940,Not For Children
+940,Violence
+941,Drug Content
+942,Gore
+944,Adult Language
+944,Adult Situations
+944,Not For Children
+944,Violence
+947,Adult Situations
+947,Suitable for Children
+948,Graphic Violence
+948,Nudity
+949,Profanity
+949,Violence
+950,Nudity
+951,Adult Situations
+951,Not For Children
+951,Rape & Sexual Abuse
+951,Sexual Situations
+951,Violence
+952,Adult Situations
+952,Brief Nudity
+952,Questionable for Children
+952,Suitable for Teens
+953,Adult Situations
+953,Nudity
+953,Profanity
+953,Questionable for Children
+953,Western Violence
+955,Violence
+957,Excellent For Children
+958,Nudity
+958,Profanity
+958,Strong Sexual Content
+959,Adult Humor
+959,Adult Situations
+960,Not For Children
+960,Nudity
+960,Strong Sexual Content
+960,Violence
+962,Adult Situations
+962,Not For Children
+962,Violence
+963,Adult Situations
+963,Graphic Violence
+963,Not For Children
+963,Profanity
+964,Profanity
+964,Sci-Fi Violence
+965,Adult Language
+965,Sci-Fi Violence
+966,Adult Language
+966,Adult Situations
+966,Not For Children
+966,Nudity
+967,Suitable for Children
+968,Questionable for Children
+968,Violence
+969,Adult Situations
+969,Sexual Situations
+970,Graphic Violence
+970,Profanity
+971,Not For Children
+972,Gore
+972,Strong Sexual Content
+974,Mild Violence
+974,Suitable for Children
+975,Mild Violence
+975,Suitable for Children
+975,Western Violence
+976,Adult Situations
+976,Not For Children
+977,Suitable for Children
+978,Adult Humor
+978,Adult Language
+978,Adult Situations
+979,Adult Situations
+980,Child Classic
+981,Adult Language
+981,Adult Situations
+981,Questionable for Children
+981,Sexual Situations
+981,Violence
+982,Alcohol Consumption
+982,Graphic Violence
+982,Rape & Sexual Abuse
+982,Substance Abuse
+982,Torture
+984,Adult Language
+984,Not For Children
+985,Adult Language
+985,Nudity
+985,Sexual Situations
+986,Brief Nudity
+986,Drug Content
+986,Not For Children
+986,Profanity
+986,Sexual Situations
+986,Substance Abuse
+986,Violence
+986,Watch With Your Teen
+986,Youth Substance Use
+987,Mild Violence
+987,Suitable for Children
+987,Western Violence
+988,Adult Situations
+989,Adult Language
+989,Sci-Fi Violence
+990,Adult Situations
+991,Child Classic
+993,Profanity
+993,War Violence
+994,Adult Situations
+994,Not For Children
+994,Profanity
+994,Violence
+997,Graphic Violence
+997,Nudity
+997,Profanity
+997,Violence
+998,Nudity
+998,Profanity
+998,Sexual Situations
+998,Violence
+999,Adult Language
+999,Adult Situations
+999,Sexual Situations
+1000,Suitable for Children
+1001,Profanity
+1001,Smoking
+1002,Brief Nudity
+1002,Profanity
+1002,Sexual Situations
+1005,Adult Situations
+1005,Questionable for Children
+1005,Sexual Situations
+1006,Adult Language
+1006,Questionable for Children
+1006,Violence
+1007,Adult Humor
+1007,Adult Language
+1007,Adult Situations
+1007,Substance Abuse
+1008,Graphic Violence
+1008,Nudity
+1008,Profanity
+1008,Sexual Situations
+1009,Child Classic
+1010,Adult Humor
+1010,Adult Situations
+1010,Not For Children
+1011,Adult Humor
+1011,Adult Situations
+1011,Graphic Violence
+1011,Not For Children
+1011,Profanity
+1011,Rape & Sexual Abuse
+1011,Strong Sexual Content
+1011,Substance Abuse
+1012,Violence
+1013,Questionable for Children
+1014,Adult Language
+1014,Adult Situations
+1014,Mild Violence
+1014,Questionable for Children
+1014,Western Violence
+1015,Questionable for Children
+1015,Violence

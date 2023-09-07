@@ -1,0 +1,2758 @@
+film,zanr
+0,Thriller
+0,Drama
+0,Crime
+1,Horror
+1,Crime
+1,Thriller
+2,Drama
+2,Fantasy
+3,Comedy
+3,Romance
+3,Crime
+4,Science Fiction
+5,Science Fiction
+6,Drama
+7,Horror
+7,Drama
+7,Thriller
+8,Comedy
+8,Horror
+8,Romance
+9,Drama
+9,Romance
+10,Fantasy
+10,Drama
+11,Drama
+11,Crime
+12,Comedy Drama
+13,Comedy Drama
+14,Action
+14,Adventure
+14,Science Fiction
+14,Fantasy
+15,Horror
+15,Thriller
+16,Action
+16,Adventure
+16,Fantasy
+16,Science Fiction
+16,Comedy
+17,Western
+17,War
+17,Action
+17,Adventure
+18,Drama
+18,Crime
+19,Romance
+20,Action
+20,Adventure
+20,Science Fiction
+20,Thriller
+21,Horror
+22,Fantasy
+22,Children's/Family
+23,Fantasy
+23,Drama
+23,Action
+23,Adventure
+23,Science Fiction
+23,Thriller
+24,Drama
+24,Romance
+24,Music
+24,Musical
+25,Mystery
+25,Romance
+25,Drama
+25,Action
+25,Adventure
+25,War
+25,Crime
+26,Drama
+26,Romance
+27,Drama
+27,Family & Personal Relationships
+28,Drama
+28,Action
+28,Adventure
+28,Crime
+28,Thriller
+29,Drama
+30,Drama
+30,Thriller
+30,Horror
+31,Drama
+31,Western
+31,Crime
+31,Family & Personal Relationships
+32,Comedy Drama
+33,Action
+33,Adventure
+33,Fantasy
+34,Comedy
+34,Crime
+35,Comedy
+35,Romance
+36,Fantasy
+36,Romance
+36,Drama
+37,Drama
+37,Crime
+38,Comedy Drama
+39,Comedy Drama
+40,Drama
+40,Thriller
+40,Horror
+41,Drama
+41,Family & Personal Relationships
+41,Historical Film
+42,Drama
+42,Mystery
+42,Thriller
+43,Romance
+43,Language & Literature
+43,Action
+43,Adventure
+43,Mystery
+44,Drama
+44,Thriller
+45,Drama
+45,Thriller
+45,Romance
+46,Drama
+46,Horror
+47,Drama
+47,Science Fiction
+48,Comedy
+48,Romance
+49,Musical
+49,Drama
+49,Music
+50,Horror
+50,Thriller
+51,Sports & Recreation
+51,Crime
+52,Comedy Drama
+53,Mystery
+53,Drama
+53,Thriller
+54,Drama
+54,Mystery
+55,Musical
+55,Comedy
+55,Romance
+56,Action
+56,Adventure
+56,Spy Film
+56,Thriller
+57,Action
+57,Adventure
+57,Western
+58,Comedy
+58,Romance
+58,Drama
+59,Drama
+59,Romance
+59,Western
+60,Drama
+60,Horror
+61,Western
+61,Action
+61,Adventure
+62,Comedy
+62,Drama
+63,Comedy Drama
+64,Drama
+64,Romance
+64,Comedy
+65,Comedy Drama
+66,Comedy
+66,Children's/Family
+67,Western
+67,Action
+67,Adventure
+67,War
+67,Drama
+68,Comedy
+68,Romance
+68,Drama
+69,Action
+69,Adventure
+69,Fantasy
+69,Drama
+69,Science Fiction
+70,Mystery
+70,Drama
+70,Crime
+70,Thriller
+71,Action
+71,Adventure
+71,Fantasy
+71,Drama
+72,Western
+73,Drama
+74,Drama
+74,Comedy
+74,Romance
+74,Family & Personal Relationships
+75,Fantasy
+76,Western
+77,Drama
+77,Romance
+77,Mystery
+78,Comedy Drama
+78,Drama
+79,Action
+79,Adventure
+79,Science Fiction
+79,Thriller
+80,Drama
+80,Crime
+80,Thriller
+81,Horror
+81,Thriller
+81,Drama
+82,Western
+82,Drama
+82,Action
+82,Adventure
+83,Thriller
+83,Crime
+84,Action
+84,Adventure
+84,Romance
+84,Drama
+84,War
+85,Action
+85,Adventure
+85,War
+85,Crime
+86,Comedy
+86,Romance
+86,Science Fiction
+86,Drama
+87,Science Fiction
+87,Drama
+87,Fantasy
+87,Crime
+88,Comedy
+88,Musical
+88,Romance
+88,Western
+89,Action
+89,Adventure
+89,War
+89,Western
+89,Historical Film
+89,Drama
+90,Action
+90,Adventure
+90,Drama
+90,Nature
+90,Western
+90,Crime
+91,Comedy
+91,Musical
+91,Western
+91,Action
+91,Adventure
+91,Crime
+91,Romance
+92,Drama
+92,Thriller
+93,Fantasy
+93,Children's/Family
+94,Drama
+94,Family & Personal Relationships
+94,Historical Film
+96,Action
+96,Adventure
+96,Science Fiction
+97,Drama
+97,Romance
+97,Action
+97,Adventure
+97,Historical Film
+98,Drama
+98,War
+98,Action
+98,Adventure
+98,Language & Literature
+99,Western
+99,Action
+99,Adventure
+100,Comedy
+100,Romance
+101,Comedy Drama
+102,Fantasy
+103,Drama
+103,Thriller
+104,Comedy
+104,Drama
+104,Romance
+105,Drama
+106,Drama
+106,Horror
+106,Science Fiction
+107,Comedy
+107,Fantasy
+107,Romance
+107,Drama
+107,Science Fiction
+108,Action
+108,Adventure
+108,Romance
+108,Thriller
+109,Drama
+109,Romance
+109,Western
+110,Drama
+110,Crime
+111,Western
+111,Comedy
+112,Mystery
+112,Horror
+112,Thriller
+113,Drama
+113,Romance
+114,Musical
+114,Romance
+114,Music
+114,Drama
+115,Mystery
+115,Drama
+116,Drama
+116,Action
+116,Adventure
+116,Mystery
+116,War
+116,Western
+116,Historical Film
+117,Comedy Drama
+118,Comedy
+119,Comedy
+120,Drama
+120,Crime
+120,Romance
+121,Drama
+121,Romance
+122,Action
+122,Adventure
+122,Drama
+122,Romance
+122,War
+122,Western
+122,Historical Film
+123,Action
+123,Adventure
+124,Action
+124,Adventure
+124,Drama
+124,Historical Film
+125,Drama
+125,Romance
+125,Comedy
+126,Action
+126,Adventure
+126,Crime
+126,Drama
+126,Thriller
+127,Comedy Drama
+128,Comedy
+128,Music
+128,Romance
+129,Action
+129,Adventure
+129,Fantasy
+129,Romance
+130,Musical
+130,Romance
+130,Drama
+131,Horror
+131,Thriller
+132,Mystery
+132,Romance
+132,Thriller
+133,Science & Technology
+133,Science Fiction
+134,Action
+134,Adventure
+135,Mystery
+135,Drama
+136,Action
+136,Adventure
+136,Fantasy
+136,Children's/Family
+136,Comedy
+136,Musical
+137,Comedy Drama
+138,Comedy Drama
+139,Western
+139,Drama
+140,Horror
+140,Thriller
+141,Comedy Drama
+142,Drama
+142,Action
+142,Adventure
+142,Thriller
+143,Comedy
+144,Comedy
+144,Romance
+144,Crime
+145,Comedy
+146,Action
+146,Adventure
+146,Fantasy
+146,Science Fiction
+146,Drama
+147,Mystery
+147,Drama
+148,Drama
+149,Crime
+150,Drama
+150,Action
+150,Adventure
+150,Children's/Family
+151,Comedy
+151,Drama
+151,Family & Personal Relationships
+152,Comedy
+152,Fantasy
+152,Romance
+153,Horror
+153,Science Fiction
+153,Comedy
+154,Drama
+154,War
+155,Drama
+155,Culture & Society
+155,Crime
+156,Drama
+156,Fantasy
+157,Mystery
+157,Crime
+158,Children's/Family
+158,Comedy
+159,Drama
+159,Romance
+160,Action
+160,Adventure
+160,Mystery
+160,Children's/Family
+160,Comedy
+160,Science Fiction
+161,Western
+162,Comedy Drama
+163,Comedy Drama
+164,Romance
+165,Drama
+165,Fantasy
+166,Science Fiction
+166,Action
+166,Adventure
+166,Fantasy
+166,Romance
+167,Mystery
+167,Drama
+167,Action
+167,Adventure
+168,Drama
+168,Action
+168,Adventure
+168,Crime
+168,Thriller
+169,Drama
+169,Fantasy
+170,Action
+170,Adventure
+170,War
+170,Drama
+171,Drama
+171,Crime
+172,Crime
+172,Historical Film
+173,Western
+174,Comedy
+174,Children's/Family
+174,Science Fiction
+175,Drama
+175,Family & Personal Relationships
+176,Mystery
+176,Crime
+176,Thriller
+176,Drama
+177,Mystery
+177,Drama
+177,Thriller
+178,Mystery
+178,Science & Technology
+178,Drama
+178,Crime
+179,Drama
+180,Comedy Drama
+181,Comedy
+181,Romance
+181,Drama
+182,Action
+182,Adventure
+182,Fantasy
+183,Fantasy
+183,Children's/Family
+183,Comedy
+184,Horror
+184,Crime
+184,Thriller
+185,Action
+185,Adventure
+185,Crime
+185,Thriller
+185,Drama
+186,Comedy Drama
+187,Comedy Drama
+187,Drama
+188,Horror
+188,Thriller
+189,Comedy
+190,Fantasy
+190,Drama
+190,Science Fiction
+191,Comedy Drama
+192,Horror
+192,Thriller
+193,Action
+193,Adventure
+193,Crime
+193,Horror
+193,Comedy
+194,Action
+194,Adventure
+194,Thriller
+195,Mystery
+195,Horror
+195,Thriller
+196,Action
+196,Adventure
+196,Romance
+196,Language & Literature
+196,Crime
+197,Comedy
+197,Romance
+197,Musical
+197,Music
+198,Drama
+198,Romance
+199,Drama
+199,Thriller
+200,Comedy
+200,Romance
+201,Action
+201,Adventure
+201,Romance
+201,Fantasy
+201,Drama
+202,Comedy
+202,Drama
+203,Drama
+203,Fantasy
+204,Drama
+204,Thriller
+205,Western
+205,Action
+205,Adventure
+206,Fantasy
+206,Action
+206,Adventure
+206,Science Fiction
+207,Western
+207,Action
+207,Adventure
+207,Drama
+207,Romance
+208,Drama
+208,Mystery
+208,Crime
+209,Comedy
+209,Drama
+209,Romance
+210,Comedy Drama
+211,Comedy Drama
+212,Drama
+212,Fantasy
+213,Drama
+213,Action
+213,Adventure
+213,Spy Film
+214,Action
+214,Adventure
+214,Science Fiction
+214,Fantasy
+215,Action
+215,Adventure
+215,Fantasy
+216,Comedy Drama
+217,Western
+218,Drama
+218,Action
+218,Adventure
+219,Comedy
+219,Children's/Family
+220,Mystery
+220,Horror
+220,Science Fiction
+220,Drama
+221,Horror
+221,Mystery
+221,Drama
+222,Horror
+222,Thriller
+223,Science Fiction
+223,Action
+223,Adventure
+223,Fantasy
+224,Action
+224,Adventure
+224,Fantasy
+225,Romance
+226,Drama
+226,Romance
+226,Mystery
+227,Drama
+227,Fantasy
+227,Comedy
+228,Comedy
+228,Romance
+229,Science Fiction
+230,Drama
+230,Romance
+230,Comedy
+231,Science Fiction
+231,Fantasy
+231,Drama
+231,Action
+231,Adventure
+231,Horror
+232,Western
+232,Drama
+233,Comedy Drama
+234,Drama
+234,Historical Film
+234,Romance
+235,Drama
+235,Musical
+235,Crime
+236,Comedy
+237,Action
+237,Adventure
+237,Western
+238,Comedy
+238,Children's/Family
+239,Comedy
+239,War
+240,Drama
+240,Crime
+240,Romance
+241,Action
+241,Adventure
+241,Science Fiction
+241,Drama
+242,Horror
+242,Mystery
+242,Thriller
+243,Horror
+243,Drama
+244,Horror
+244,Thriller
+245,Comedy
+245,Fantasy
+246,Drama
+246,Action
+246,Adventure
+246,Science Fiction
+246,Thriller
+247,Comedy
+247,Drama
+247,Crime
+248,Comedy Drama
+248,Romance
+249,Drama
+249,Action
+249,Adventure
+249,War
+249,Western
+249,Historical Film
+250,Drama
+250,Romance
+250,War
+250,Language & Literature
+251,Science Fiction
+252,Drama
+252,Crime
+252,Comedy
+252,Romance
+253,Drama
+253,Science Fiction
+254,Drama
+254,Thriller
+254,Mystery
+255,Drama
+255,Historical Film
+256,Horror
+256,Thriller
+257,Horror
+257,Drama
+257,Mystery
+257,Thriller
+258,War
+258,Crime
+259,Horror
+259,Mystery
+259,Thriller
+259,Drama
+260,Horror
+261,Comedy Drama
+262,Comedy Drama
+263,Drama
+263,Comedy
+264,Action
+264,Adventure
+264,Spy Film
+264,Thriller
+265,Comedy Drama
+266,Horror
+266,Drama
+266,Science Fiction
+266,Thriller
+267,Crime
+268,Fantasy
+268,Action
+268,Adventure
+268,Drama
+269,Fantasy
+270,Romance
+270,Musical
+270,Drama
+271,Comedy
+271,War
+272,Action
+272,Adventure
+272,Science Fiction
+272,Fantasy
+273,Drama
+273,Romance
+274,Action
+274,Adventure
+274,Fantasy
+275,Action
+275,Adventure
+275,War
+275,Drama
+276,Drama
+276,Action
+276,Adventure
+276,Historical Film
+276,Spirituality & Philosophy
+277,Action
+277,Adventure
+277,Drama
+277,Fantasy
+278,Drama
+278,Science Fiction
+278,Comedy
+279,Western
+279,Drama
+279,Action
+279,Adventure
+280,Western
+281,Drama
+281,Crime
+281,Romance
+282,Drama
+282,Romance
+283,Comedy
+283,Horror
+283,Mystery
+284,Horror
+284,Drama
+284,Action
+284,Adventure
+284,Thriller
+285,Comedy Drama
+286,Drama
+286,Romance
+286,Science Fiction
+287,Action
+287,Adventure
+287,Fantasy
+288,Comedy Drama
+289,Horror
+289,Thriller
+289,Drama
+290,Action
+290,Adventure
+290,Science Fiction
+291,Action
+291,Adventure
+291,Fantasy
+291,Drama
+292,Mystery
+292,Horror
+292,Drama
+293,Comedy
+293,Action
+293,Adventure
+293,War
+293,Romance
+294,Comedy
+295,Horror
+295,Drama
+295,Action
+295,Adventure
+296,Comedy
+297,Action
+297,Adventure
+297,Drama
+297,Western
+298,Comedy
+298,War
+299,Action
+299,Adventure
+299,Fantasy
+299,Science Fiction
+300,Sports & Recreation
+300,Historical Film
+300,Crime
+301,Comedy
+301,Drama
+301,Romance
+302,Horror
+302,Science Fiction
+303,Crime
+304,Horror
+304,Thriller
+305,Drama
+305,Crime
+305,Language & Literature
+306,Action
+306,Adventure
+306,Fantasy
+307,Fantasy
+308,Action
+308,Adventure
+308,Fantasy
+308,Language & Literature
+309,Drama
+309,Romance
+310,Mystery
+310,Thriller
+310,Crime
+310,Romance
+311,Western
+312,Drama
+312,Romance
+312,Action
+312,Adventure
+312,Western
+313,Comedy Drama
+314,Drama
+314,Horror
+314,Science Fiction
+314,Mystery
+315,Drama
+315,War
+315,Crime
+316,Drama
+316,Fantasy
+316,Romance
+316,Action
+316,Adventure
+317,Comedy Drama
+318,Mystery
+318,Fantasy
+319,Drama
+319,Science Fiction
+320,Drama
+320,Science Fiction
+321,Comedy
+321,Drama
+321,Horror
+322,Comedy
+322,Fantasy
+323,Action
+323,Adventure
+323,Fantasy
+323,Science Fiction
+324,Western
+325,Horror
+325,Thriller
+326,Comedy Drama
+327,Horror
+327,Drama
+327,Thriller
+328,Drama
+328,Crime
+329,Comedy
+329,Drama
+329,Fantasy
+330,Action
+330,Adventure
+330,Comedy
+331,Comedy
+331,Romance
+332,Drama
+332,Romance
+332,Comedy
+333,Drama
+333,Romance
+333,Musical
+333,Language & Literature
+334,Action
+334,Adventure
+334,Fantasy
+334,Drama
+335,Comedy
+336,Comedy
+336,Crime
+337,Action
+337,Adventure
+337,Children's/Family
+338,Comedy Drama
+338,Romance
+339,Western
+339,Action
+339,Adventure
+339,Drama
+339,War
+339,Romance
+340,Drama
+340,War
+341,Science Fiction
+342,Action
+342,Adventure
+342,Drama
+342,War
+342,Western
+343,Western
+344,Comedy Drama
+345,Crime
+346,Horror
+346,Drama
+346,Mystery
+346,Thriller
+347,Comedy Drama
+348,Comedy
+348,Horror
+348,Thriller
+349,Drama
+349,Western
+350,Fantasy
+350,Drama
+350,Action
+350,Adventure
+350,Science Fiction
+351,Horror
+351,Science Fiction
+351,Thriller
+352,Action
+352,Adventure
+352,Drama
+352,Science Fiction
+352,Thriller
+353,Action
+353,Adventure
+353,Drama
+353,War
+354,Horror
+354,Fantasy
+355,Action
+355,Adventure
+355,Science Fiction
+355,Drama
+355,Mystery
+356,Historical Film
+356,Crime
+357,Spirituality & Philosophy
+357,Romance
+358,Drama
+358,Romance
+359,Historical Film
+359,Comedy
+360,Action
+360,Adventure
+360,Fantasy
+361,Comedy
+361,Drama
+362,Drama
+362,Romance
+363,Science Fiction
+363,Mystery
+363,Drama
+364,Drama
+364,Romance
+365,Drama
+365,Crime
+366,Drama
+366,Action
+366,Adventure
+366,Historical Film
+367,Fantasy
+367,Horror
+367,Thriller
+368,Comedy
+369,Western
+369,Action
+369,Adventure
+369,Romance
+369,Crime
+370,Drama
+370,Fantasy
+370,Horror
+370,Thriller
+371,Western
+372,Drama
+372,Romance
+373,Drama
+373,Romance
+373,Language & Literature
+374,Drama
+374,Romance
+374,Language & Literature
+375,Drama
+375,Western
+375,Romance
+376,Action
+376,Adventure
+376,Drama
+376,War
+376,Western
+376,Thriller
+377,Mystery
+377,Sports & Recreation
+377,Romance
+377,Thriller
+378,Drama
+378,Music
+379,Comedy
+380,Comedy
+380,Fantasy
+380,Musical
+381,Fantasy
+381,Children's/Family
+382,Comedy
+382,Romance
+382,Action
+382,Adventure
+383,Fantasy
+383,Action
+383,Adventure
+383,Science Fiction
+384,Comedy Drama
+384,Romance
+385,Drama
+385,War
+385,Fantasy
+385,Mystery
+386,Drama
+386,Western
+387,Drama
+387,Romance
+388,Action
+388,Adventure
+388,Fantasy
+388,Drama
+388,Science Fiction
+389,Action
+389,Adventure
+389,Drama
+389,Comedy
+390,Drama
+391,Comedy
+391,Drama
+391,Action
+391,Adventure
+391,Thriller
+391,Romance
+391,Crime
+392,Action
+392,Adventure
+392,Crime
+393,Comedy Drama
+394,Drama
+394,Romance
+395,Musical
+395,Romance
+395,Music
+395,Comedy
+396,Western
+396,Action
+396,Adventure
+396,Drama
+396,Crime
+397,Action
+397,Adventure
+397,Thriller
+398,Drama
+398,Horror
+398,Action
+398,Adventure
+399,Action
+399,Adventure
+399,Comedy
+400,Comedy Drama
+401,Drama
+401,Crime
+401,Romance
+402,Comedy Drama
+403,Western
+403,Action
+403,Adventure
+403,Drama
+404,Comedy Drama
+405,Drama
+405,Action
+405,Adventure
+405,War
+406,Drama
+406,Crime
+406,Romance
+407,Mystery
+407,Drama
+407,Thriller
+407,Horror
+407,Science Fiction
+408,Western
+409,Action
+409,Adventure
+409,Fantasy
+409,Science Fiction
+410,Comedy
+410,Fantasy
+410,Drama
+411,Mystery
+411,Drama
+411,Thriller
+412,Drama
+412,Crime
+413,Horror
+413,Drama
+413,Thriller
+414,Fantasy
+414,Comedy
+415,Comedy
+415,Drama
+415,Musical
+415,Romance
+415,War
+416,Comedy
+416,Horror
+416,Thriller
+417,Western
+417,Action
+417,Adventure
+417,Drama
+417,Romance
+418,Action
+418,Adventure
+418,Drama
+419,Avant-garde / Experimental
+419,Comedy Drama
+420,Mystery
+420,Thriller
+421,Horror
+421,Fantasy
+421,Science Fiction
+421,Thriller
+421,Action
+421,Adventure
+422,Comedy Drama
+423,Action
+423,Adventure
+423,Fantasy
+423,Science Fiction
+424,Action
+424,Adventure
+424,Science Fiction
+424,Thriller
+425,Fantasy
+425,Drama
+425,Action
+425,Adventure
+426,Fantasy
+427,Romance
+427,Crime
+428,Drama
+428,Thriller
+429,Drama
+429,Mystery
+429,Thriller
+429,Crime
+430,Action
+430,Adventure
+430,Spy Film
+430,Thriller
+431,Drama
+431,Crime
+432,Western
+433,Comedy Drama
+434,Fantasy
+434,Drama
+435,Drama
+435,Thriller
+436,Comedy Drama
+437,Science Fiction
+438,Musical
+438,Drama
+438,Romance
+438,Comedy
+439,Crime
+440,Science Fiction
+440,Fantasy
+441,Comedy Drama
+442,Horror
+442,Mystery
+442,Science Fiction
+442,Thriller
+443,Fantasy
+443,Science Fiction
+444,Comedy
+445,Drama
+445,Western
+445,Romance
+446,Horror
+446,Mystery
+446,Thriller
+447,Thriller
+447,Action
+447,Adventure
+447,Romance
+448,Science Fiction
+448,Fantasy
+449,Western
+449,Drama
+449,Romance
+449,Action
+449,Adventure
+450,Science Fiction
+451,Music
+451,Fantasy
+452,Comedy
+452,Action
+452,Adventure
+452,Drama
+452,Science Fiction
+453,Crime
+453,Thriller
+454,Comedy Drama
+455,Comedy Drama
+456,Horror
+456,Science Fiction
+456,Thriller
+457,Western
+457,Action
+457,Adventure
+457,Drama
+457,Romance
+457,War
+458,Drama
+458,Romance
+458,Action
+458,Adventure
+458,Science Fiction
+459,Drama
+459,Crime
+460,Action
+460,Adventure
+460,Fantasy
+460,Comedy
+461,Western
+461,Drama
+461,Historical Film
+462,Action
+462,Adventure
+462,Crime
+463,Drama
+463,Thriller
+464,Crime
+464,Comedy
+464,Drama
+465,Drama
+465,Fantasy
+466,Western
+466,Action
+466,Adventure
+466,Drama
+466,War
+467,Mystery
+467,Drama
+467,Action
+467,Crime
+467,Thriller
+468,Action
+468,Adventure
+468,Fantasy
+468,Mystery
+468,Comedy
+469,Western
+470,Comedy Drama
+471,Drama
+471,Western
+472,Mystery
+472,Science Fiction
+473,Drama
+473,Romance
+474,Comedy Drama
+475,Drama
+475,Comedy
+476,Comedy Drama
+477,Action
+477,Adventure
+477,Drama
+478,Action
+478,Thriller
+478,Science Fiction
+479,Drama
+479,Science Fiction
+479,Thriller
+480,Comedy
+480,Horror
+481,Mystery
+481,Horror
+481,Drama
+482,Action
+482,Adventure
+482,Drama
+482,Science Fiction
+483,Action
+483,Adventure
+483,Science Fiction
+483,Drama
+484,Music
+484,Comedy
+485,Drama
+485,Crime
+485,Romance
+486,Mystery
+486,Fantasy
+486,Horror
+487,Horror
+487,Crime
+487,Thriller
+488,Action
+488,Adventure
+488,War
+489,Comedy Drama
+489,Romance
+490,Comedy Drama
+491,Action
+491,Adventure
+491,Drama
+491,Thriller
+492,Drama
+492,Music
+492,Musical
+493,Fantasy
+494,Drama
+495,Drama
+496,Horror
+496,Drama
+496,Thriller
+497,Science Fiction
+497,Fantasy
+497,Romance
+497,War
+498,Comedy Drama
+499,Action
+499,Adventure
+499,Drama
+499,Science Fiction
+499,Thriller
+500,Drama
+500,Action
+500,Adventure
+500,Historical Film
+500,Thriller
+501,Comedy Drama
+502,Action
+502,Adventure
+502,Romance
+502,Drama
+502,Science Fiction
+502,Thriller
+503,Action
+503,Adventure
+503,Crime
+504,Comedy
+504,Action
+504,Adventure
+504,Musical
+504,Music
+505,Drama
+505,Thriller
+506,Western
+506,Drama
+506,Action
+506,Adventure
+507,Comedy Drama
+508,Comedy Drama
+509,Mystery
+509,Thriller
+509,Drama
+510,Drama
+510,War
+510,Historical Film
+510,Western
+511,Fantasy
+511,Children's/Family
+512,Thriller
+513,Action
+513,Adventure
+513,Historical Film
+514,Romance
+514,Mystery
+514,Crime
+515,Comedy Drama
+516,Romance
+516,Fantasy
+517,Horror
+517,Drama
+517,Science Fiction
+518,Drama
+518,Comedy
+518,Crime
+519,Comedy Drama
+520,Fantasy
+520,Spy Film
+520,Horror
+521,Musical
+521,Drama
+521,Romance
+522,Action
+522,Adventure
+522,Fantasy
+522,Drama
+523,Drama
+523,Historical Film
+523,War
+524,Western
+524,Action
+524,Adventure
+524,Crime
+524,Mystery
+525,Science Fiction
+525,Historical Film
+526,Drama
+526,Horror
+526,War
+526,Historical Film
+527,Science Fiction
+527,Action
+527,Adventure
+528,Comedy
+528,Romance
+528,Drama
+529,Drama
+529,Comedy
+529,Historical Film
+530,Drama
+530,Romance
+531,Comedy
+531,Fantasy
+531,Drama
+531,Children's/Family
+532,Mystery
+532,Drama
+532,Thriller
+533,Drama
+533,Action
+533,Adventure
+533,Travel
+534,Western
+534,Drama
+534,Action
+534,Adventure
+535,Comedy Drama
+536,Mystery
+536,Thriller
+537,Drama
+537,Western
+538,Drama
+538,Fantasy
+538,Romance
+539,Comedy Drama
+540,Comedy Drama
+541,Horror
+541,Romance
+541,Science Fiction
+541,Thriller
+542,Comedy
+542,Crime
+543,Musical
+543,Science Fiction
+544,Horror
+544,Drama
+544,Mystery
+545,Comedy
+546,Western
+547,Western
+548,Action
+548,Adventure
+548,Romance
+548,Fantasy
+548,Horror
+549,Comedy
+549,Crime
+549,Drama
+550,Comedy
+550,Drama
+550,Sports & Recreation
+551,Horror
+551,Drama
+551,Action
+551,Adventure
+551,Thriller
+552,Mystery
+552,Thriller
+553,Crime
+554,Horror
+554,Comedy
+555,Drama
+555,Fantasy
+555,Horror
+555,Science Fiction
+556,Action
+556,Adventure
+556,Drama
+556,War
+556,Western
+557,Drama
+557,Comedy
+558,Comedy
+558,Comedy Drama
+559,Science Fiction
+559,Fantasy
+559,Drama
+559,Crime
+559,Action
+559,Adventure
+560,Mystery
+560,Thriller
+561,Horror
+561,Action
+561,Adventure
+561,Science Fiction
+562,Horror
+562,Thriller
+563,Comedy Drama
+564,Mystery
+564,Drama
+564,Crime
+564,Thriller
+565,Drama
+565,Action
+565,Adventure
+565,Western
+565,Thriller
+566,Comedy Drama
+567,Science Fiction
+567,Mystery
+567,Fantasy
+568,Western
+568,Drama
+568,Action
+568,Adventure
+569,Drama
+569,Crime
+570,Drama
+570,Romance
+570,Action
+570,Adventure
+570,Western
+570,Crime
+571,Comedy Drama
+572,Western
+572,Action
+572,Adventure
+572,Drama
+572,Romance
+573,Mystery
+573,Drama
+573,Thriller
+574,Fantasy
+574,Science Fiction
+574,Comedy
+575,Action
+575,Adventure
+575,Children's/Family
+575,Comedy
+576,Drama
+576,Action
+576,Adventure
+576,Science Fiction
+576,Thriller
+577,Drama
+577,Fantasy
+577,Action
+577,Adventure
+577,Spirituality & Philosophy
+578,Drama
+578,Romance
+578,Mystery
+579,Comedy Drama
+580,Action
+580,Adventure
+580,Drama
+581,Drama
+581,Thriller
+581,Horror
+582,Comedy
+583,Drama
+583,Comedy
+584,Comedy
+584,Children's/Family
+585,Drama
+585,Action
+585,Adventure
+585,Romance
+586,Comedy Drama
+587,Comedy
+588,Comedy
+588,Fantasy
+588,Romance
+588,Drama
+589,Comedy
+589,Fantasy
+589,Romance
+589,Drama
+589,Children's/Family
+590,Drama
+590,Action
+590,Adventure
+590,Western
+590,Romance
+591,Drama
+591,Western
+592,Drama
+592,Crime
+592,Family & Personal Relationships
+592,Culture & Society
+593,Comedy
+593,Drama
+593,War
+593,Historical Film
+594,Drama
+594,Theater
+594,Fantasy
+594,Musical
+594,Romance
+594,Music
+595,Western
+596,Western
+597,Fantasy
+597,Horror
+597,Thriller
+598,Drama
+598,Romance
+598,War
+598,Crime
+599,Romance
+599,Comedy Drama
+600,Horror
+600,Mystery
+600,Thriller
+601,Action
+601,Adventure
+601,Science Fiction
+602,Drama
+602,Action
+602,Adventure
+602,Western
+603,Drama
+604,Crime
+605,Musical
+605,Thriller
+606,Drama
+607,Horror
+607,Drama
+607,Mystery
+607,Thriller
+608,Comedy Drama
+609,Comedy
+609,Romance
+609,Drama
+609,Action
+609,Adventure
+610,Fantasy
+611,Science Fiction
+612,Comedy Drama
+612,War
+613,Drama
+613,Romance
+613,Crime
+614,Western
+614,Action
+614,Adventure
+615,Drama
+615,Culture & Society
+616,Comedy
+616,Music
+616,Fantasy
+617,Western
+617,Action
+617,Adventure
+617,Romance
+617,Drama
+618,Drama
+619,Comedy Drama
+619,Romance
+620,Comedy
+620,Fantasy
+620,Romance
+620,Sports & Recreation
+621,Drama
+621,Romance
+621,Science Fiction
+622,Comedy Drama
+623,Crime
+623,Science & Technology
+624,Drama
+624,Romance
+625,Drama
+625,Crime
+626,Comedy
+626,Western
+627,Comedy
+627,Drama
+627,Mystery
+627,Thriller
+628,Comedy
+628,Crime
+629,Action
+629,Adventure
+629,Drama
+629,Children's/Family
+629,Musical
+630,Drama
+630,Romance
+630,Family & Personal Relationships
+630,Culture & Society
+631,Western
+631,Drama
+632,Comedy Drama
+633,Western
+633,War
+634,Comedy Drama
+635,Comedy
+635,Drama
+636,Fantasy
+637,Mystery
+637,Crime
+637,Thriller
+638,Drama
+638,Thriller
+639,Drama
+639,Crime
+639,Western
+640,Children's/Family
+641,Horror
+641,Drama
+642,Drama
+643,Fantasy
+643,Children's/Family
+643,Drama
+643,Romance
+644,Drama
+644,Thriller
+645,Drama
+645,Romance
+645,Sports & Recreation
+646,Western
+646,Action
+646,Adventure
+646,Drama
+646,Romance
+647,War
+647,Drama
+647,Historical Film
+647,Action
+647,Adventure
+648,Drama
+648,Horror
+649,Horror
+649,Thriller
+650,Crime
+651,Drama
+651,Crime
+651,Thriller
+652,Comedy
+653,Romance
+653,Comedy Drama
+654,Comedy
+654,Drama
+655,Mystery
+655,Romance
+655,Thriller
+656,Drama
+656,Romance
+656,Science Fiction
+656,Comedy
+657,Comedy
+657,Fantasy
+657,Musical
+658,Drama
+658,Fantasy
+659,Action
+659,Adventure
+659,Science Fiction
+659,Fantasy
+659,Thriller
+659,Crime
+660,Musical
+660,Drama
+660,Romance
+660,War
+661,Western
+662,Drama
+662,Horror
+662,Thriller
+663,Drama
+663,Culture & Society
+664,Action
+664,Adventure
+664,Horror
+664,Science Fiction
+665,Comedy Drama
+666,Western
+667,Drama
+667,Western
+668,Musical
+668,Drama
+668,Horror
+669,Comedy
+670,Comedy Drama
+670,Drama
+670,Romance
+671,Action
+671,Adventure
+671,Sports & Recreation
+671,Drama
+672,Comedy
+673,Action
+673,Science Fiction
+674,Drama
+674,Romance
+674,Sports & Recreation
+675,Comedy Drama
+676,Drama
+676,Romance
+676,Language & Literature
+676,War
+677,Western
+677,Action
+677,Adventure
+678,Comedy Drama
+679,Thriller
+679,Science Fiction
+679,Drama
+680,Action
+680,Adventure
+680,Western
+681,Drama
+681,Crime
+682,Comedy
+683,Musical
+683,Comedy
+683,Music
+683,Romance
+684,Action
+684,Adventure
+684,Drama
+684,War
+684,Western
+685,Drama
+685,Romance
+686,Drama
+686,Crime
+687,Mystery
+687,Drama
+687,Action
+687,Adventure
+687,Thriller
+688,Crime
+689,Western
+689,Drama
+689,Action
+689,Adventure
+690,Drama
+690,Language & Literature
+690,Romance
+691,Drama
+691,Horror
+692,Drama
+692,Fantasy
+692,Action
+692,Adventure
+692,Comedy
+693,Mystery
+693,Drama
+693,Thriller
+694,Drama
+694,Family & Personal Relationships
+695,Drama
+696,Comedy Drama
+697,Mystery
+697,Romance
+698,Drama
+698,Romance
+699,Drama
+699,War
+699,Crime
+699,Spirituality & Philosophy
+700,Comedy Drama
+701,Western
+702,Action
+702,Adventure
+702,Drama
+702,Nature
+702,War
+702,Western
+702,Historical Film
+703,Action
+703,Adventure
+703,Science Fiction
+703,Thriller
+704,Drama
+704,Romance
+704,Horror
+705,Drama
+705,Mystery
+705,Action
+705,Adventure
+706,Action
+706,Adventure
+707,Drama
+707,Fantasy
+708,Comedy
+708,Crime
+709,Comedy Drama
+710,Drama
+710,Action
+710,Adventure
+710,Sports & Recreation
+711,Drama
+711,Historical Film
+711,Crime
+712,Drama
+712,Mystery
+712,Thriller
+712,Historical Film
+712,Spy Film
+713,Horror
+713,Thriller
+714,Comedy
+714,Horror
+715,Horror
+715,Romance
+716,Drama
+716,Fantasy
+717,Comedy
+718,Drama
+718,Romance
+719,Fantasy
+719,Action
+719,Adventure
+719,Children's/Family
+720,Action
+720,Adventure
+720,Drama
+720,Romance
+720,Mystery
+720,Spy Film
+720,Thriller
+721,Fantasy
+722,Drama
+722,Comedy
+722,Crime
+723,Drama
+723,Fantasy
+723,Thriller
+724,Drama
+724,Western
+725,Comedy
+725,Comedy Drama
+726,Drama
+726,Mystery
+726,Crime
+726,Thriller
+727,Fantasy
+727,Drama
+727,Music
+728,Fantasy
+728,Action
+728,Adventure
+728,Drama
+728,Horror
+728,Thriller
+729,Action
+729,Adventure
+730,Comedy
+730,Drama
+731,Drama
+731,Romance
+732,Comedy Drama
+733,Drama
+733,Historical Film
+733,News [TV]
+734,Comedy
+735,Comedy
+735,Romance
+736,Comedy
+736,Musical
+736,Romance
+737,Western
+737,Action
+737,Adventure
+737,Drama
+738,Drama
+738,Romance
+738,Historical Film
+738,Thriller
+739,Comedy
+739,Drama
+740,Mystery
+740,Thriller
+740,Crime
+740,Drama
+741,Science Fiction
+742,Drama
+742,War
+743,Horror
+743,Drama
+744,Action
+744,Adventure
+744,Drama
+745,Horror
+745,Drama
+745,Romance
+745,Thriller
+746,Action
+746,Adventure
+746,Western
+746,Drama
+746,Romance
+747,Fantasy
+747,Children's/Family
+748,Western
+749,Drama
+749,Action
+749,Adventure
+749,Western
+749,Crime
+750,Mystery
+750,Action
+750,Adventure
+750,Spy Film
+750,Thriller
+751,Comedy Drama
+752,Drama
+752,Romance
+753,Drama
+753,Romance
+754,Action
+754,Children's/Family
+754,Science Fiction
+755,Comedy
+755,Romance
+755,Action
+755,Adventure
+756,Drama
+756,Action
+756,Adventure
+756,Crime
+756,Thriller
+757,Fantasy
+757,Music
+757,Children's/Family
+757,Musical
+758,Crime
+758,Drama
+759,Western
+759,Action
+759,Adventure
+759,Drama
+760,Mystery
+760,Horror
+761,Comedy
+761,Romance
+761,Crime
+762,Comedy Drama
+763,Comedy Drama
+764,Drama
+764,Historical Film
+764,Spirituality & Philosophy
+765,Fantasy
+765,Action
+765,Adventure
+765,Children's/Family
+766,Drama
+766,Fantasy
+767,Mystery
+767,Thriller
+768,Western
+768,Drama
+768,Action
+768,Adventure
+768,Crime
+769,Drama
+769,Action
+769,Adventure
+769,Mystery
+769,Crime
+770,Drama
+770,Action
+770,Adventure
+770,Crime
+771,Horror
+771,Crime
+771,Thriller
+772,Action
+772,Adventure
+772,Crime
+772,Thriller
+773,Action
+773,Adventure
+773,Science Fiction
+774,Drama
+774,Fantasy
+775,Science Fiction
+775,Fantasy
+776,Crime
+777,Romance
+777,Comedy Drama
+778,Western
+779,Action
+779,Adventure
+779,Science Fiction
+779,Crime
+779,Thriller
+780,Action
+780,Adventure
+780,Children's/Family
+781,Comedy
+781,Drama
+781,Historical Film
+782,Musical
+782,Drama
+782,Music
+782,Children's/Family
+783,Science Fiction
+784,Comedy
+784,Romance
+785,Drama
+785,Music
+786,Horror
+786,Drama
+786,Mystery
+786,Thriller
+787,Action
+787,Adventure
+787,Drama
+787,Science Fiction
+788,Science Fiction
+788,Drama
+788,Thriller
+788,Horror
+789,Drama
+789,Family & Personal Relationships
+790,Comedy
+791,Action
+791,Adventure
+791,Science Fiction
+791,Fantasy
+791,Children's/Family
+792,Drama
+792,Crime
+793,Mystery
+793,Thriller
+794,Drama
+795,Western
+795,Action
+795,Adventure
+796,Mystery
+796,Drama
+796,Horror
+796,Thriller
+797,Comedy
+798,Action
+798,Adventure
+798,Drama
+799,Horror
+799,Thriller
+800,Comedy
+800,Action
+800,Adventure
+800,Crime
+801,Drama
+801,Romance
+802,Western
+802,Drama
+802,Romance
+803,Comedy
+803,Romance
+803,Western
+804,Comedy
+804,Horror
+804,Romance
+805,Comedy Drama
+806,Comedy
+806,Horror
+807,Comedy Drama
+808,Comedy Drama
+809,Action
+809,Adventure
+809,Drama
+809,Thriller
+810,Drama
+810,Western
+810,Sports & Recreation
+811,Horror
+811,Thriller
+812,Action
+812,Adventure
+812,Western
+813,Mystery
+813,Crime
+814,Comedy
+814,Romance
+814,Drama
+815,Drama
+815,Mystery
+815,Comedy
+815,Horror
+816,Drama
+816,Horror
+816,Mystery
+816,Romance
+817,Drama
+817,Western
+818,Comedy Drama
+819,Action
+819,Adventure
+819,Thriller
+820,Action
+820,Adventure
+820,Science Fiction
+821,Action
+821,Adventure
+821,Horror
+821,Fantasy
+821,Science Fiction
+822,Action
+822,Adventure
+822,Romance
+822,Comedy
+823,Musical
+823,Comedy
+824,Action
+824,Adventure
+824,Fantasy
+824,Drama
+825,Drama
+825,Fantasy
+825,Mystery
+825,Science Fiction
+826,Action
+826,Adventure
+826,Drama
+826,Nature
+827,Drama
+827,Thriller
+828,Drama
+828,Horror
+828,Thriller
+829,Action
+829,Adventure
+829,Drama
+829,Crime
+830,Comedy
+830,Romance
+830,Crime
+831,Comedy Drama
+832,Comedy Drama
+832,Romance
+833,Drama
+833,Action
+833,Adventure
+833,War
+834,Comedy Drama
+835,Western
+836,Drama
+836,Historical Film
+837,Mystery
+837,Thriller
+838,Mystery
+838,Drama
+838,Horror
+838,Fantasy
+839,Comedy
+840,Comedy Drama
+841,Horror
+841,Drama
+841,Thriller
+842,Fantasy
+842,Children's/Family
+842,Comedy
+843,Action
+843,Adventure
+843,Horror
+843,Science Fiction
+843,Comedy
+844,Culture & Society
+844,Horror
+844,Thriller
+845,Comedy
+845,Drama
+845,Horror
+845,Thriller
+846,Action
+846,Adventure
+846,Comedy
+846,Crime
+847,Drama
+847,Language & Literature
+847,Romance
+848,Drama
+848,Crime
+848,Romance
+849,Comedy Drama
+850,Comedy
+850,Drama
+850,Mystery
+851,Romance
+852,Crime
+852,Action
+852,Adventure
+853,Action
+853,Adventure
+853,Science Fiction
+853,Fantasy
+854,Mystery
+854,Drama
+854,Crime
+854,Thriller
+855,Drama
+855,Thriller
+855,Mystery
+856,Action
+856,Adventure
+857,Horror
+857,Science Fiction
+857,Thriller
+858,Fantasy
+858,Drama
+859,Action
+859,Adventure
+859,Drama
+860,Action
+860,Adventure
+860,Romance
+860,Drama
+861,Thriller
+861,Horror
+862,Drama
+862,Horror
+862,Mystery
+863,Adult
+863,Horror
+863,Thriller
+864,Drama
+865,Romance
+865,Drama
+865,Comedy
+866,Horror
+866,Thriller
+867,Drama
+867,Mystery
+867,Action
+867,Adventure
+867,Science Fiction
+867,Thriller
+868,Action
+868,Adventure
+868,Fantasy
+868,Science Fiction
+868,Thriller
+869,Mystery
+869,Romance
+869,Crime
+870,Western
+870,Comedy
+870,Action
+870,Adventure
+870,War
+871,Comedy
+871,Romance
+872,Comedy
+872,Drama
+872,Romance
+873,Mystery
+873,Drama
+873,Horror
+873,Thriller
+874,Comedy Drama
+875,Drama
+876,Comedy
+876,Children's/Family
+876,Fantasy
+877,Comedy Drama
+878,Comedy
+878,Action
+878,Adventure
+878,Science Fiction
+879,Comedy
+879,Sports & Recreation
+879,Action
+879,Adventure
+880,Science Fiction
+880,Horror
+880,Thriller
+881,Drama
+881,Sports & Recreation
+882,Comedy
+882,Drama
+883,Action
+883,Adventure
+883,Spy Film
+883,Thriller
+884,Musical
+884,Drama
+884,Romance
+885,Comedy
+885,Drama
+885,Crime
+886,Drama
+887,Drama
+887,Western
+888,Comedy Drama
+889,Drama
+889,Science & Technology
+889,Science Fiction
+890,Comedy Drama
+891,Drama
+891,Horror
+891,Mystery
+891,Thriller
+892,Science Fiction
+892,Action
+892,Adventure
+893,Mystery
+893,Horror
+893,Drama
+894,Children's/Family
+894,Action
+895,Science Fiction
+895,Thriller
+895,Drama
+896,Drama
+896,Action
+896,Adventure
+896,War
+896,Historical Film
+897,Action
+897,Adventure
+897,Drama
+897,Sports & Recreation
+898,Comedy Drama
+899,Drama
+899,Comedy
+899,Horror
+899,Romance
+900,Comedy Drama
+901,Action
+901,Adventure
+901,Drama
+901,Spirituality & Philosophy
+902,Drama
+903,Drama
+903,Horror
+903,Mystery
+903,Music
+903,Thriller
+904,Thriller
+905,Mystery
+905,Drama
+905,Science Fiction
+906,Comedy
+906,Drama
+907,Fantasy
+907,Musical
+908,Western
+908,Drama
+908,Action
+908,Adventure
+909,Comedy Drama
+910,Musical
+910,Fantasy
+910,Comedy
+911,Science Fiction
+911,Drama
+911,Action
+911,Adventure
+912,Drama
+912,Music
+913,Action
+913,Adventure
+913,Science Fiction
+914,Drama
+914,Crime
+915,Mystery
+915,Romance
+915,Drama
+916,Drama
+916,Crime
+916,Family & Personal Relationships
+916,Thriller
+917,Action
+917,Thriller
+917,Crime
+918,Comedy
+918,Romance
+918,Drama
+919,Comedy Drama
+919,Romance
+920,Western
+920,Drama
+920,War
+920,Language & Literature
+921,Western
+922,Horror
+922,Drama
+922,Science Fiction
+922,Thriller
+923,Crime
+924,Drama
+925,Drama
+925,Romance
+926,Comedy Drama
+927,Drama
+927,Romance
+927,Musical
+928,Fantasy
+928,Children's/Family
+929,Comedy Drama
+930,Drama
+930,Thriller
+931,Comedy Drama
+932,Drama
+932,Historical Film
+933,Comedy Drama
+933,Fantasy
+934,Drama
+934,Thriller
+935,Drama
+935,Science Fiction
+936,Comedy Drama
+937,Comedy Drama
+938,Action
+938,Adventure
+938,Drama
+938,Fantasy
+938,Science Fiction
+938,Crime
+939,Drama
+939,Crime
+939,Romance
+939,Language & Literature
+940,Thriller
+941,Drama
+941,Crime
+941,Comedy
+942,Horror
+942,Thriller
+943,Drama
+943,War
+943,Historical Film
+944,Thriller
+945,Comedy Drama
+946,Western
+947,Comedy
+947,Romance
+947,Drama
+947,War
+948,Horror
+948,Drama
+948,Mystery
+948,Thriller
+949,Western
+949,Action
+949,Adventure
+949,Thriller
+950,Comedy
+950,Drama
+951,Drama
+951,Action
+951,Adventure
+951,Comedy
+951,Crime
+952,Romance
+952,Action
+952,Adventure
+953,Drama
+953,Action
+953,Adventure
+953,Western
+954,Comedy Drama
+955,Drama
+955,War
+956,Action
+956,Adventure
+956,Crime
+957,Comedy
+958,Drama
+958,Romance
+958,Comedy
+959,Comedy Drama
+960,Drama
+960,Mystery
+960,Thriller
+961,Language & Literature
+961,Crime
+962,Action
+962,Adventure
+962,Thriller
+963,Mystery
+963,Action
+963,Adventure
+964,Action
+964,Adventure
+964,Science Fiction
+964,Thriller
+965,Action
+965,Adventure
+965,Fantasy
+965,Science Fiction
+966,Comedy
+967,Comedy
+967,Fantasy
+967,Romance
+968,Drama
+968,War
+968,Fantasy
+969,Comedy Drama
+970,Action
+970,Crime
+970,Thriller
+971,Mystery
+971,Thriller
+971,Spirituality & Philosophy
+972,Horror
+972,Comedy
+973,Comedy Drama
+974,Drama
+974,War
+974,Romance
+974,Historical Film
+975,Western
+975,Drama
+975,Action
+975,Adventure
+975,Crime
+976,Drama
+976,Crime
+977,Comedy Drama
+978,Comedy Drama
+979,Mystery
+979,Action
+979,Adventure
+979,Comedy
+979,Children's/Family
+980,Comedy
+980,Western
+980,Action
+980,Adventure
+981,Action
+981,Adventure
+981,Romance
+981,Thriller
+982,Drama
+982,Thriller
+983,Comedy
+983,Fantasy
+984,Drama
+985,Drama
+985,Romance
+985,Musical
+986,Drama
+986,Thriller
+986,Crime
+987,Western
+988,Drama
+988,War
+988,Romance
+989,Action
+989,Adventure
+989,Science Fiction
+989,Drama
+990,Comedy Drama
+991,Romance
+991,Musical
+991,Thriller
+991,Children's/Family
+992,Drama
+992,Romance
+993,Action
+993,Adventure
+993,War
+993,Thriller
+994,Drama
+994,Historical Film
+994,Thriller
+995,Drama
+995,Fantasy
+996,Drama
+996,Romance
+997,Fantasy
+997,Romance
+997,Thriller
+997,Drama
+998,Drama
+998,Western
+999,Drama
+999,Culture & Society
+1000,Action
+1000,Adventure
+1000,Romance
+1000,Drama
+1001,Drama
+1001,Romance
+1002,Drama
+1002,Romance
+1002,Science Fiction
+1003,Science Fiction
+1003,Drama
+1003,Mystery
+1003,Thriller
+1004,Comedy
+1004,Comedy Drama
+1005,Comedy Drama
+1006,Crime
+1007,Comedy Drama
+1008,Action
+1008,Adventure
+1008,Fantasy
+1008,Science Fiction
+1008,Comedy
+1009,Drama
+1009,Fantasy
+1010,Comedy Drama
+1011,Drama
+1012,Western
+1012,Action
+1012,Adventure
+1012,Crime
+1013,Comedy Drama
+1014,Western
+1014,Drama
+1015,Action
+1015,Adventure
+1015,Drama
